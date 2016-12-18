@@ -4,6 +4,7 @@ bootswatch: null # flatly, yeti, lumen,...
 navbar_inverse: false 
 bootstrap: 3.3.4
 navbar_right_items: 0
+analytics: UA-89086991-1
 
 reflinks:
     aboutme:
