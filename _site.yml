@@ -3,6 +3,9 @@ brand: Randori
 bootswatch: null # flatly, yeti, lumen,... 
 navbar_inverse: false 
 bootstrap: 3.3.4
-navbar_right_items: 1
+navbar_right_items: 0
 
-# reflinks:
+reflinks:
+    aboutme:
+        url: https://be.linkedin.com/in/philippefaes
+        title : About Philippe
