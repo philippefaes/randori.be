@@ -27,7 +27,10 @@
     <div class="content">
       {% block content %}
       <div class="col-md-7" role="main">
+        <div role="main">
         {{this.body}}
+        </div>
+        {% include 'comments.html' %}
       </div>
       {% endblock %}
     </div>
