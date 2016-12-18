@@ -2,6 +2,7 @@
 title: Randori
 layout: page
 content:
+    - starting_collection
     - aboutme
 comments: true
 pager: False
