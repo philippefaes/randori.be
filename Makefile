@@ -10,4 +10,4 @@ serve:
 	python -m urubu serve
 
 publish:
-	git subtree push --prefix _build origin gh-pages    
+	./_publish.sh
