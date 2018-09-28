@@ -1,5 +1,6 @@
 brand: Randori
 
+navbar_inverse: True
 bootswatch: null # flatly, yeti, lumen,... 
 navbar_inverse: false 
 bootstrap: 3.3.4
@@ -10,3 +11,7 @@ reflinks:
     aboutme:
         url: https://be.linkedin.com/in/philippefaes
         title : About Philippe
+    mydice:
+        url: http://www.mydice.be
+        title : My Dice
+        

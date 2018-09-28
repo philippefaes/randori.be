@@ -21,5 +21,6 @@ fierceness - playfulness - tenderness
 
 triangle - circle - square
 
+youth - adulthood - old age
 
 

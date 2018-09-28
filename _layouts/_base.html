@@ -39,10 +39,11 @@
     {% if site.navbar_inverse %}
     {%   set navbar_style = "navbar-inverse" %}
     {% endif %}
-    {% set navbar_right_items = 1 %}
+    {% set navbar_right_items = -site.reflinks['/'].content.__len__() %}
     {% if site.navbar_right_items %}
     {%   set navbar_right_items = site.navbar_right_items %}
     {% endif %}
+    
     <div class="navbar {{navbar_style}} navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
