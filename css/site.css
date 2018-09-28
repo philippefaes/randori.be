@@ -1,3 +1,5 @@
+@import url("randori.css");
+
 body {
   position: relative;
   padding-top: 50px;
@@ -111,3 +113,7 @@ h3[id]:before{
 }
 
 
+/* randori.be specific */
+img {
+  padding: 10px;
+}
