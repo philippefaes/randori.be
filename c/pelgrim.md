@@ -11,7 +11,7 @@ tags:
 ## Hoe ik wandelaar werd
 
 ![Camino del Norte](/images/full_backpack.jpg){: align=right width=40%}
-In 2017 ben ik in vijf weken 900 kilometer gewandeld in Spanje. Ik ben vertrokken in Irun (Spaans-Franse grens aan de Golf van Biscaje) en dan langs de Spaanse noordkust tot aan Santiago de Compostela en Fisterra.
+In 2017 heb ik in vijf weken 900 kilometer gewandeld in Spanje. Ik ben vertrokken in Irun (Spaans-Franse grens aan de Golf van Biscaje) en heb dan gewandeld langs de Spaanse noordkust tot aan Santiago de Compostela en Fisterra.
 
 Eigenlijk had ik nog getwijfeld om een andere wandeltocht te doen. De [GR-5](https://en.wikipedia.org/wiki/GR_5) die van België naar het Franse Nice loopt, het [Pieterpad](http://www.pieterpad.nl/) of het Gelukkigerwijspad in Nederland. Ik wilde vooral even echt weg van mijn dagelijkse routine en van alle mensen die ik kende. 
 
