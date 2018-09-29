@@ -26,7 +26,7 @@ Ik koos voor de noordelijke kustroute (*Camino del Norte*) omdat die iets ruwer 
 ![Camino del Norte](/images/calle_del_peregrino.jpg "Philippe aan de Calle del Peregrino in Soto del Barco"){: align=right width=40%}
 In het begin vond ik het woord "pelgrim" maar vreemd. Ik voel me niet verbonden me de religieuze connotaties van het woord pelgrim. Ik voelde me een wandelaar, een *hiker*. Weken lang werd ik als "peregrino" aangesproken. Weken lang ook was ik op zoek naar mezelf en leerde ik mezelf beter kennen, zoals een pelgrim.
 
-Uiteindelijk ben ik dat woord "pelgrim" voor mezelf gaan gebruiken. Zonder religieuze lading. [Ethymologisch](https://en.wiktionary.org/wiki/pilgrim), betekent het gewoon "vreemdeling". Voor mij betekent het ook: iemand op zoek is naar zichzelf. (Lees ook: [/c/wat_is_een_pelgrim])
+Uiteindelijk ben ik dat woord "pelgrim" voor mezelf gaan gebruiken. Zonder religieuze lading. [Ethymologisch](https://en.wiktionary.org/wiki/pilgrim), betekent het gewoon "vreemdeling". Voor mij betekent het ook: iemand op zoek is naar zichzelf.
 
 ## Antwoorden vinden
 
