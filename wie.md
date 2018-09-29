@@ -2,7 +2,7 @@
 title: Wie?
 layout: page
 comments: False
-pager: True
+pager: False
 ---
 
 
