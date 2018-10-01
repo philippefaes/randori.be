@@ -1,8 +1,13 @@
 ---
 title: Collectie
 layout: index
-order: title
+order: date
 pager: False
+reverse: True
 ---
 
-Ik verzamel chaos. Hier is een selectie uit mijn collectie.
+
+> "Randori" is een japans woord dat betekent "chaos verzamelen". 
+> Ik balanceer graag op de grens tussen orde en chaos. Ik zoek graag de chaos op en ik maak graag orde. En soms ook niet.
+>
+> Hier is een (kleine) selectie uit mijn (grote) collectie.

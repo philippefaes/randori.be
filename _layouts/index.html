@@ -15,9 +15,25 @@
 </div>
 {% endblock %}
 
+    
+    
 <div class="container">
   <div class="row">
-    <div class="col-md-7 col-md-offset-2" role="main">
+    <div class="content">
+      {% block content %}
+      <div class="col-md-8 col-md-offset-2" role="main">
+        <div role="main">
+        {{this.body}}
+        </div>
+        <div style="padding-top:30px">	
+          {% if this.comments %}
+            {% include 'comments.html' %}
+          {% endif %}
+        </div>
+      </div>
+      {% endblock %}
+    </div>
+    <div class="col-md-8 col-md-offset-2" role="main">
       {% for item in this.content %}
       <h4><a href="{{item.url}}">{{item.title}}</a>
         {% if item.date|d %}

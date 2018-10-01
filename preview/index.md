@@ -1,6 +1,6 @@
 ---
 title: Preview
-layout: index
+layout: page
 order: title
 pager: False
 ---

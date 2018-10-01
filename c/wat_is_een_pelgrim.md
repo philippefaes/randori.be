@@ -9,7 +9,7 @@ tags:
     - camino
 ---
 
-![Pelgrim](/images/wandelen_langs_afbeelding_santiago.jpg "Philippe wandelt langs een afbeelding van Sint Jacobus, Santiago."){: align=right width=40%}
+![Pelgrim](/images/wandelen_langs_afbeelding_santiago.jpg "Philippe wandelt langs een afbeelding van Sint Jacobus, Santiago.")
 Ik noem mezelf vaak "pelgrim" en ik besef goed dat een beladen en controvertieel woord is. Eerder vertelde ik al [hoe ik pelgrim werd](/c/pelgrim), en dat ik zelf ook weerstand voelde bij het woord "pelgrim". 
 Nu wil het hebben over de wat dat woord betekent, en wat het betekent voor mij.
 
@@ -29,7 +29,7 @@ Het is een noodzakelijk onderdeel van pelgrimeren dat de pelgrim zich terugtrekt
 
 > El verdadero Camino comienza con la vuelta a casa.
 > 
-> (De echte Camino begint pas als je weer naar huis gaat.) 
+> *De echte Camino begint pas als je weer naar huis gaat.* 
 
 ![Vliegtuig](/images/airplane.jpg "Naar huis vliegen vanaf Santiago de Compostela"){: align=right width=40%}
 Een pelgrim onderzoekt ook het verleden; zijn eigen verleden of de geschiedenis van de eigen cultuur. Op die manier bereidt de pelgrim zich voor om aan het volgende deel van zijn leven te beginnen. Het is pas bij de terugkeer naar je eigen huis, naar je eigen wereld dat de verandering in je leven kan beginnen. Daarom vind ik, samen met zo veel andere pelgrims, dat je niet ophoudt met pelgrim-zijn als je weer op het vliegtuig naar Zaventem stapt. Daar begint het pas. 
