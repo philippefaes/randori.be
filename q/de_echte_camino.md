@@ -2,7 +2,7 @@
 title: De echte camino begint pas als je weer naar huis gaat
 layout: page
 pager: True
-comments: True
+comments: false
 date: 2018-10-02
 tags:
     - camino
