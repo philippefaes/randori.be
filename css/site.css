@@ -113,17 +113,29 @@ h3[id]:before{
 
 /* randori.be specific */
 
-.content img {
-  padding: 10px;
-  float: right;
-  width: 40%;
-}
 
+.content img {
+    float: right;
+    width: 40%;
+    padding: 10px;
+}
 img.quote {
   padding: 10px;
   float: middle;
   width: 60%;
 }
+
+@media (max-width: 768px) {
+    .content img {
+        width: 100%;
+    }
+    img.quote {
+        width: 100%;
+    }
+}
+
+
+
 
 .jumbotron {
   background-image: url("/images/landschap.jpg");
