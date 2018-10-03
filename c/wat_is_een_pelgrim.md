@@ -31,7 +31,7 @@ Het is een noodzakelijk onderdeel van pelgrimeren dat de pelgrim zich terugtrekt
 > 
 > *De echte Camino begint pas als je weer naar huis gaat.* 
 
-![Vliegtuig](/images/airplane.jpg "Naar huis vliegen vanaf Santiago de Compostela"){: align=right width=40%}
+![Vliegtuig](/images/airplane.jpg "Naar huis vliegen vanaf Santiago de Compostela")
 Een pelgrim onderzoekt ook het verleden; zijn eigen verleden of de geschiedenis van de eigen cultuur. Op die manier bereidt de pelgrim zich voor om aan het volgende deel van zijn leven te beginnen. Het is pas bij de terugkeer naar je eigen huis, naar je eigen wereld dat de verandering in je leven kan beginnen. Daarom vind ik, samen met zo veel andere pelgrims, dat je niet ophoudt met pelgrim-zijn als je weer op het vliegtuig naar Zaventem stapt. Daar begint het pas. 
 
 # Mijn betekenis 

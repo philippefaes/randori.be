@@ -119,6 +119,11 @@ h3[id]:before{
   width: 40%;
 }
 
+img.quote {
+  padding: 10px;
+  float: middle;
+  width: 60%;
+}
 
 .jumbotron {
   background-image: url("/images/landschap.jpg");

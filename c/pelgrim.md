@@ -11,7 +11,7 @@ tags:
 
 ## Hoe ik wandelaar werd
 
-![Camino del Norte](/images/full_backpack.jpg "Philippe begint aan zijn wandeltocht met een volle rugzak"){: align=right width=40%}
+![Camino del Norte](/images/full_backpack.jpg "Philippe begint aan zijn wandeltocht met een volle rugzak")
 In 2017 heb ik in vijf weken 900 kilometer gewandeld in Spanje. Ik ben vertrokken in Irun (Spaans-Franse grens aan de Golf van Biscaje) en heb dan gewandeld langs de Spaanse noordkust tot aan Santiago de Compostela en Fisterra.
 
 Eigenlijk had ik nog getwijfeld om een andere wandeltocht te doen. De [GR-5](https://en.wikipedia.org/wiki/GR_5) die van België naar het Franse Nice loopt, het [Pieterpad](http://www.pieterpad.nl/) of het [Gelukkigerwijspad](http://www.gelukkigerwijspad.nl/) in Nederland. Ik wilde vooral even echt weg van mijn dagelijkse routine en van alle mensen die ik kende. 
@@ -23,7 +23,7 @@ Ik koos voor de noordelijke kustroute (*Camino del Norte*) omdat die iets ruwer 
 
 ## Wandelaar of Pelgrim?
 
-![Camino del Norte](/images/calle_del_peregrino.jpg "Philippe aan de Calle del Peregrino in Soto del Barco"){: align=right width=40%}
+![Camino del Norte](/images/calle_del_peregrino.jpg "Philippe aan de Calle del Peregrino in Soto del Barco")
 In het begin vond ik het woord "pelgrim" maar vreemd. Ik voel me niet verbonden me de religieuze connotaties van het woord pelgrim. Ik voelde me een wandelaar, een *hiker*. Weken lang werd ik als "peregrino" aangesproken. Weken lang ook was ik op zoek naar mezelf en leerde ik mezelf beter kennen, zoals een pelgrim.
 
 Uiteindelijk ben ik dat woord "pelgrim" voor mezelf gaan gebruiken. Zonder religieuze lading. [Ethymologisch](https://en.wiktionary.org/wiki/pilgrim), betekent het gewoon "vreemdeling". Voor mij betekent het ook: iemand op zoek is naar zichzelf. (Lees ook [/c/wat_is_een_pelgrim])

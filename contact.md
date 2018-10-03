@@ -6,7 +6,7 @@ pager: False
 ---
 
 
-![Philippe Faes](/images/philippe_rivier_cr.jpg){: align=right width=50%} 
+![Philippe Faes](/images/philippe_rivier_cr.jpg) 
 
 * Contacteer me via email: [philippe.faes@gmail.com](mailto:philippe.faes@gmail.com) 
 * Bel me op [+32 494 87 22 72](tel:+32 494 87 22 72) 
