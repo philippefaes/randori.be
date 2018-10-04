@@ -1,6 +1,6 @@
 ---
 title: Het plan is er is geen plan
-layout: page
+layout: quote
 pager: True
 comments: True
 date: 2018-10-02
@@ -10,6 +10,7 @@ tags:
     - quote
 ---
 
-# El plan es improvisar
 
 ![Camino quote](/images/q/het_plan_is_improviseren_s.jpg "Het plan is er is geen plan. El plan es improvisar."){: class="quote"}
+
+El plan es improvisar

@@ -1,6 +1,6 @@
 ---
 title: Just keep walking
-layout: page
+layout: quote
 pager: True
 comments: True
 date: 2018-10-02
@@ -10,6 +10,7 @@ tags:
     - quote
 ---
 
-# El plan es improvisar
 
-![Camino quote](/images/q/just_keep_walking_s.jpg "Just keep walking."){: class="quote"}
+![Camino quote](/images/q/just_keep_walking_s.jpg "Just keep walking. Blijven stappen."){: class="quote"}
+
+Blijven stappen
