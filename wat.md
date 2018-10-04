@@ -2,7 +2,7 @@
 title: Wat?
 layout: page
 comments: False
-pager: False
+pager: True
 ---
 
 # Startersadvies en ondernemerscoaching
@@ -11,7 +11,7 @@ pager: False
 * Werken aan je bussinessplan, financieel plan, investeringsplan ...
 * Marketing, Strategie, Sales, Operations, ...
 
-[Neem contact op](contact)
+[Neem contact op](contact) — [appointment]
 
 # Wandelcoaching
 
@@ -23,12 +23,12 @@ In 2017 ben ik in vijf weken [900 kilometer gewandeld in Spanje](/c/pelgrim). Al
 [Neem contact op](contact)
 
 # Interim management / consulting
-  * hands-on
-  * oplossingsgericht
-  * effectief en efficiënt
-  * people management of tech management
-  * voltijds of deeltijds
-  * tijdelijk
+  * Hands-on
+  * Oplossingsgericht
+  * Effectief en efficiënt
+  * People management of tech management
+  * Voltijds of deeltijds
+  * Tijdelijk
 
   
 [Neem contact op](contact)

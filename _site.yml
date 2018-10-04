@@ -14,4 +14,7 @@ reflinks:
     mydice:
         url: http://www.mydice.be
         title : My Dice
+    appointment:
+        url: https://philippe-faes.youcanbook.me
+        title : Maak een afspraak
         
