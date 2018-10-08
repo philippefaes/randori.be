@@ -5,6 +5,7 @@ pager: True
 comments: True
 date: 2018-09-29
 pager: True
+thumbnail: /images/wandelen_langs_afbeelding_santiago.jpg
 tags:
     - camino
 ---
@@ -27,9 +28,9 @@ Je zou kunnen zeggen dat een Australiër die het oorlogsgraf van zijn grootvader
 
 Het is een noodzakelijk onderdeel van pelgrimeren dat de pelgrim zich terugtrekt uit het dagelijkse leven. Tijdens een pelgrimstocht ben je inderdaad weg van de routine van thuis. Maar, zoals pelgrims in Santiago vaak tegen mekaar zeggen: 
 
-> El verdadero Camino comienza con la vuelta a casa.
+> [El verdadero Camino comienza con la vuelta a casa.](/q/de_echte_camino.html)
 > 
-> *De echte Camino begint pas als je weer naar huis gaat.* 
+> [*De echte Camino begint pas als je weer naar huis gaat.*](/q/de_echte_camino.html) 
 
 ![Vliegtuig](/images/airplane.jpg "Naar huis vliegen vanaf Santiago de Compostela")
 Een pelgrim onderzoekt ook het verleden; zijn eigen verleden of de geschiedenis van de eigen cultuur. Op die manier bereidt de pelgrim zich voor om aan het volgende deel van zijn leven te beginnen. Het is pas bij de terugkeer naar je eigen huis, naar je eigen wereld dat de verandering in je leven kan beginnen. Daarom vind ik, samen met zo veel andere pelgrims, dat je niet ophoudt met pelgrim-zijn als je weer op het vliegtuig naar Zaventem stapt. Daar begint het pas. 

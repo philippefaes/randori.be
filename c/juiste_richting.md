@@ -2,9 +2,9 @@
 title: De juiste richting
 layout: page
 pager: True
-order: title
 comments: true
 date: 2018-10-03
+thumbnail: /images/flecha_variante_s.jpg
 tags:
     - camino
 ---
@@ -21,7 +21,7 @@ Net buiten het dorp is een mooi klein kerkje, een *ermita*. We bewonderen het ge
 
 Na tien minuten vraagt iemand of we nog pijlen hebben gezien. Nee, het is al een tijdje geleden dat er iemand de typisch gele pijlen die de weg naar Santiago wijzen gezien heeft. We keren dus terug. Vlak vóór het kerkje hadden we moeten afslagen. De Camino loopt daar niet over de grote weg, maar langs een klein paadje stijl de berg op.
 
-> Als je niet de juiste weg volgt, raak je verder van je doel verwijderd!
+> [/q/foute_weg]
 
 ![Gele Pijlen](/images/flecha.jpg "Een geverfde wegwijzer op de Camino")
 Soms zijn de pijlen naar Santiago erg duidelijk. Soms staan er zelfs stenen paaltjes of grote plakaten met wegwijzers. Maar op andere plaatsen is het gewoon wat gele verf op de straat. Als je niet aandachtig bent kan je die wegwijzers gemakkelijk missen. Gelukkig, na een paar dagen ben je het zo gewend om op de gele pijlen te letten dat je het onbewust doet. Tot je afgeleid bent natuurlijk.

@@ -10,4 +10,5 @@ pager: False
 
 * Contacteer me via email: [philippe.faes@gmail.com](mailto:philippe.faes@gmail.com) 
 * Bel me op [+32 494 87 22 72](tel:+32 494 87 22 72) 
+* [bookme]
 * Link op [LinkedIn](https://www.linkedin.com/in/philippefaes/)

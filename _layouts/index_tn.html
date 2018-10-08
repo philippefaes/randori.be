@@ -33,19 +33,40 @@
       </div>
       {% endblock %}
     </div>
-    <div class="col-md-8 col-md-offset-2" role="main">
+    
+    <div class="col-md-12 thumbnail-index" role="main">
+    
       {% for item in this.content %}
-      <h4><a href="{{item.url}}">{{item.title}}</a>
-        {% if item.date|d %}
-        <small>{{item.date|dateformat}}</small></h4>
+      {% if item.thumbnail %}
+      <div class="col-md-4" role="main" style="padding: 30px;">
+        <h4><a href="{{item.url}}">{{item.title}}</a>
+          {% if item.date|d %}
+          <br/><small>{{item.date|dateformat}}</small></h4>
+          {% endif %}
+        </h4>
+        
+        
+        {% if item.thumbnail %}
+        <a href="{{item.url}}">
+          <!--img alt="{{item.title}}" src="{{item.thumbnail}}" title="{{item.title}}" style="max-width:80%;max-height:-webkit-fill-available"-->
+          
+          <div class="crop">
+            <img src="{{item.thumbnail}}" alt="{{item.title}}">
+          </div>
+        </a>
         {% endif %}
-      </h4>
-      <p>{{item.teaser}}</p>
+        
+        {% if item.teaser %}
+        <div class="teaser">{{item.teaser}}</div>
+        <a href="{{item.url}}">lees meer</a>
+        {% endif %}
+      </div>
+      {% endif %}
       {% endfor %}
     </div>
   </div>
 </div>
 
 {% include 'footer.html' %}
-  
+
 {% endblock %}

@@ -3,6 +3,8 @@ title: Wat?
 layout: page
 comments: False
 pager: True
+thumbnail: /images/voordracht_starterslabo.jpg
+teaser: <ul><li>Veranderen door te wandelen</li><li> Business coacing</li><li>Interim management</li></ul>
 ---
 
 # Startersadvies en ondernemerscoaching
