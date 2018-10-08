@@ -1,8 +1,8 @@
 ---
-title: Wie?
+title: Wie
 layout: page
 comments: False
-thumbnail: /images/IMG_20170925_091156014_s.jpg
+thumbnail: /images/philippe_norte.jpg
 teaser: <ul><li>Ondernemer</li><li>Coach</li><li>Wandelaar</li></ul>
 ---
 
@@ -11,8 +11,8 @@ teaser: <ul><li>Ondernemer</li><li>Coach</li><li>Wandelaar</li></ul>
 > Ondernemer, coach en wandelaar. Verzamelt chaos. <br/>
 > Houdt van tech. Houdt meer van mensen dan van tech.
 
-![Voordracht bij Starterslabo](/images/voordracht_starterslabo.jpg)
 # Ondernemer
+![Philippe bij Sigasi](/images/sigasi_talk.jpg "Philippe legt uit wat hij niet gaat uitleggen")
 Ik heb bijna tien jaar lang mijn eigen bedrijf, [Sigasi](http://www.sigasi.com), geleid. Als mede-oprichter heb ik ervaring met alle aspecten van bedrijfsvoering: sales, marketing, productontwikkeling, strategische samenwerkingen opzetten, recrutering, administratie, raden van bestuur en algemene vergaderingen. Ik heb in 2010 een investeringsronde van ongeveer een half miljoen euro doorgevoerd, en heb verschillende subsidiedossiers geschreven en goedgekeurd gekregen.
 
 In 2017 heb ik de leiding van Sigasi overgedragen aan een nieuwe algemeen directeur, en blijf ik betrokken als aandeelhouder. Sigasi is nog steeds een rendabel en groeiend high-techbedrijf met distributeurs en klanten over de hele wereld.
@@ -25,8 +25,8 @@ Al jaren adviseer en coach ik startende en groeiende ondernemers, zowel in peer-
 
 
 
-![Philippe](/images/IMG_20170925_091156014_s.jpg)
 # Wandelaar
+![Philippe](/images/philippe_norte.jpg)
 
 In 2017 heb ik in vijf weken [900 kilometer gewandeld in Spanje](/c/pelgrim.html). Ik ben vertrokken in Irun (Spaans-Franse grens aan de Golf van Biscaje) en dan langs de Spaanse noordkust tot aan Santiago de Compostela en Fisterra.
 
