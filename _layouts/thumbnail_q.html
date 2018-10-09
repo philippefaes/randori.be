@@ -1,0 +1,17 @@
+{% if item.thumbnail %}
+  <div class="col-md-3" role="main">
+    <h4>
+      {% if item.date|d %}
+      <br/><small>{{item.date|dateformat}}</small></h4>
+      {% endif %}
+    </h4>
+    {% if item.thumbnail %}
+    <a href="{{item.url}}">
+      <div class="crop-quote">
+        <img src="{{item.thumbnail}}" alt="{{item.title}}">
+      </div>
+    </a>
+    {% endif %}
+    
+  </div>
+{% endif %}

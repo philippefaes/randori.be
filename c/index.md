@@ -1,13 +1,19 @@
 ---
 title: Collectie Chaos
 layout: index_tn
-order: date
-reverse: True
+content: 
+    - a
+    - b
+    - q
 pager: False
 thumbnail: /images/schatkist.jpg
 teaser: Randori is een japans woord dat betekent "chaos verzamelen". Ik balanceer graag op de grens tussen orde en chaos. Hier is een stukje van mijn verzameling.
+recent:
+    - /c/a/
+    - /c/b/
+    - /c/q/
 ---
 
 # Randori - mijn verzameling chaos
 
-### [/c/randori]
+### [a/randori]

@@ -160,7 +160,14 @@ blockquote {
 
 /* crop for thumbnail index pages*/
 .thumbnail-index div.col-md-4{
-	padding: 30px;
+	padding-left:30px;
+	padding-rigtht:30px;
+	padding-bottom:20px;
+}
+
+h2.recent-items{
+	padding-top:30px;
+	padding-bottom:30px;
 }
 
 .thumbnail-index h4{
@@ -176,8 +183,15 @@ blockquote {
     overflow: hidden;
 }
 .crop img {
-	padding:10 px;
+	padding:10px;
     width:350px;
+}
+
+.crop-quote {
+}
+.crop-quote img {
+	padding:10px;
+    width:100%;
 }
 
 div.teaser{
