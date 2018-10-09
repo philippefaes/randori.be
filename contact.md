@@ -1,14 +1,19 @@
 ---
 title: Contact
-layout: page
+layout: home
 comments: False
 pager: False
 ---
 
-
-![Philippe Faes](/images/philippe_rivier_cr.jpg) 
-
-* Contacteer me via email: [philippe.faes@gmail.com](mailto:philippe.faes@gmail.com) 
-* Bel me op [+32 494 87 22 72](tel:+32 494 87 22 72) 
-* [bookme]
-* Link op [LinkedIn](https://www.linkedin.com/in/philippefaes/)
+<div class="col-md-3">
+<h4><a href="mailto:philippe.faes@gmail.com">Contacteer me via email</a></h4>
+</div>
+<div class="col-md-3">
+<h4><a href="call:+32494872272">Bel me op +32 494 87 22 72</a></h4>
+</div>
+<div class="col-md-3">
+<h4><a href="/bookme.html">Maak een afspraak</a></h4>
+</div>
+<div class="col-md-3">
+<h4><a href="https://www.linkedin.com/in/philippefaes/">LinkedIn</a></h4>
+</div>
