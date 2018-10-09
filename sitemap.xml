@@ -11,12 +11,27 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/q/just_keep_walking.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/tag/quote/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>http://www.randori.be/c/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/foute_weg.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/pelgrim.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -36,12 +51,27 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/q/we_are_all_pilgrims.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/tag/book/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/q/index.html</loc>
+        <loc>http://www.randori.be/c/a/juiste_richting.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/frontpage.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/b/siddartha.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -56,7 +86,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/b/</loc>
+        <loc>http://www.randori.be/c/a/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -66,22 +96,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/q/de_weg_is_het_doel.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/b/siddartha.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/b/inspirerend coachen.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/q/</loc>
+        <loc>http://www.randori.be/c/q/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -91,7 +106,27 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/a/wat_is_een_pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/b/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/c/pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/de_echte_camino.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -101,22 +136,17 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/b/alchemist.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/q/het_plan.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/bookme.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/b/index.html</loc>
+        <loc>http://www.randori.be/c/b/inspirerend coachen.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -126,22 +156,17 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/randori.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/more/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/wat_is_een_pelgrim.html</loc>
+        <loc>http://www.randori.be/c/b/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/q/foute_weg.html</loc>
+        <loc>http://www.randori.be/c/wat_is_een_pelgrim.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -161,7 +186,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/q/de_echte_camino.html</loc>
+        <loc>http://www.randori.be/c/a/randori.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -171,7 +196,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/q/we_are_all_pilgrims.html</loc>
+        <loc>http://www.randori.be/c/q/het_plan.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -181,7 +206,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/q/just_keep_walking.html</loc>
+        <loc>http://www.randori.be/c/q/de_weg_is_het_doel.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
