@@ -5,7 +5,6 @@ layout: page
 pager: True
 comments: true
 thumbnail: /images/siddartha.jpg
-teaser: Toen ik negentien was, kreeg ik dit boek van mijn toenmalig liefje. Het is een van de weinige boeken die ik verschillende keren gelezen heb, het enige boek waarvan ik drie verschillende uitgaven in mijn boekenkast heb staan, en voor zover ik me kan herinneren het enige boek dat ik in twee verschillende talen heb gelezen.
 date: 2018-10-04
 tags:
     - book

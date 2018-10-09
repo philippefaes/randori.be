@@ -183,7 +183,8 @@ h2.recent-items{
     overflow: hidden;
 }
 .crop img {
-	padding:10px;
+	padding-left:10px;
+	padding-right:10px;
     width:350px;
 }
 
@@ -196,5 +197,9 @@ h2.recent-items{
 
 div.teaser{
 	padding-top:10px;
-	font-size: 110%;	
+	padding-left:10px;
+	padding-right:10px;
+	font-size: 110%;
+	height: 100px;
+		
 }
