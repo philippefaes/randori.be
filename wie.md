@@ -3,7 +3,7 @@ title: Wie
 layout: page
 comments: False
 thumbnail: /images/philippe_norte.jpg
-teaser: <ul><li>Ondernemer</li><li>Coach</li><li>Wandelaar</li></ul>
+teaser: <ul><li>Ondernemer</li> <li>Coach</li> <li>Wandelaar</li></ul>
 ---
 
 
