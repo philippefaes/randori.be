@@ -14,7 +14,7 @@ In persoonlijke gesprekken met vrienden en vreemden noem ik mezelf vaak *pelgrim
  
 > Bring your whole self to work — [Mike Robbins](https://mike-robbins.com/tedxberkeley)
 
-Gisteren luisterde ik nog eens naar een aflevering van de [dan_mullins_podcast]. Daarin vertelde een pelgrim dat ze zich nog steeds pelgrim voelde. Dat voel ik ook, en dat zeg ik ook. En vanaf nu ook bovenaan mijn hoofdpagina. En op mijn [linkedin].
+Gisteren luisterde ik nog eens naar een aflevering van de [dan_mullins_podcast]. Daarin vertelde een pelgrim dat ze zich nog steeds pelgrim voelde, ook nadat ze weer thuis was na haar pelgrimstocht. Dat voel ik ook, en dat zeg ik ook. En vanaf nu ook bovenaan mijn hoofdpagina. En op mijn [linkedin].  
 
-Dus, hoewel mijn pelgrimstocht me heeft geleerd om mijn ongefilterde eerlijke zelf te zijn, slip ik soms nog. En dat is niet erg. 
+Dus, hoewel mijn pelgrimstocht me heeft geleerd om mijn ongefilterde eerlijke zelf te zijn, slip ik soms nog. En dat is niet erg. Nu kies ik om opnieuw helemaal mezelf te zijn, om mijn *hele* zelf mee te brengen.
 
