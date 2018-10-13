@@ -146,11 +146,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/inspirerend coachen.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/c/q/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -162,6 +157,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/more/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/fisterra.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
