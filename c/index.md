@@ -17,3 +17,11 @@ recent:
 # Randori - mijn verzameling chaos
 
 ### [a/randori]
+
+<!-- coming
+Do everything with love and truth.
+
+
+
+
+-->

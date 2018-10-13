@@ -3,12 +3,13 @@ title: Wie
 layout: page
 comments: False
 thumbnail: /images/philippe_norte.jpg
-teaser: <ul><li>Ondernemer</li> <li>Coach</li> <li>Wandelaar</li></ul>
+teaser: <ul><li>Ondernemer</li> <li>Coach</li> <li>Pelgrim</li></ul>
 ---
 
 
 # Wie is Philippe?
-> Ondernemer, coach en wandelaar. Verzamelt chaos. <br/>
+> Ondernemer, coach en pelgrim. <br/> 
+> Verzamelt chaos. <br/>
 > Houdt van tech. Houdt meer van mensen dan van tech.
 
 # Ondernemer
@@ -24,17 +25,18 @@ Al jaren adviseer en coach ik startende en groeiende ondernemers, zowel in peer-
 <!-- TODO endorsements -->
 
 
-
-# Wandelaar
+# Pelgrim
 ![Philippe](/images/philippe_norte.jpg)
 
 In 2017 heb ik in vijf weken [900 kilometer gewandeld in Spanje](/c/pelgrim.html). Ik ben vertrokken in Irun (Spaans-Franse grens aan de Golf van Biscaje) en dan langs de Spaanse noordkust tot aan Santiago de Compostela en Fisterra.
 
 Als je elke dag zes tot acht uur wandelt, weg van je gewone dagelijkse verplichtingen, heeft dat een grote impact op je lijf, en op je leven. Door de beweging pompt je hart meer zuurstof naar je hersenen, en krijg je een helderder beeld op de vragen of twijfels waar je op dat moment mee zit.
 
-Deze wandeltocht (of “[pelgrimstocht](/c/wat_is_een_pelgrim.html)”) heeft mij weer met mijn twee voeten stevig op de grond gezet, en heeft mij geholpen om een paar moeilijke knopen door te hakken.
+Deze [pelgrimstocht](/c/wat_is_een_pelgrim.html) heeft mij weer met mijn twee voeten stevig op de grond gezet, en heeft mij geholpen om een paar moeilijke knopen door te hakken.
 
-Sindsdien wandel ik regelmatig en veel.
+Sindsdien wandel ik regelmatig en veel. En noem ik mezelf, los van elke religie, een *pelgrim*. 
+
+(Lees ook: [/c/a/wat_is_een_pelgrim] ) 
 
 
 # Opleidingen

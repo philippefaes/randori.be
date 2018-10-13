@@ -18,4 +18,10 @@ reflinks:
     appointment:
         url: https://philippe-faes.youcanbook.me
         title : Maak een afspraak
+    dan_mullins_podcast:
+        url: https://www.danmullinsmusic.com/podcast
+        title: My Camino Podcast by Dan Mullins
+    linkedin:
+        url: https://www.linkedin.com/in/philippefaes/
+        title: LinkedIn
         
