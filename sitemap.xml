@@ -6,7 +6,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/tag/camino/</loc>
+        <loc>http://www.randori.be/c/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -81,11 +81,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/c/a/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -101,12 +96,22 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/a/uit_de_kast.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/c/juiste_richting.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>http://www.randori.be/c/a/wat_is_een_pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/tag/camino/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
