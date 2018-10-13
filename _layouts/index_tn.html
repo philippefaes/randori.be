@@ -27,7 +27,7 @@
     </div>
     
     <div class="col-md-12 thumbnail-index" role="main">
-      {% for item in this.content %}
+      {% for item in this.content|excludefuture(this.excludefuture) %}
       {% include 'thumbnail.html' %}
       {% endfor %}
     </div>
@@ -38,7 +38,7 @@
     </div>
 
     <div class="col-md-12 thumbnail-index" role="main">
-      {% for item in this.content|filtercontent(this.recent)|filterlatest(12) %}
+      {% for item in this.content|filtercontent(this.recent)|excludefuture(this.excludefuture)|filterlatest(12) %}
             {% include 'thumbnail.html' %}
       {% endfor %}
     </div>

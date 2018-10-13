@@ -70,6 +70,11 @@ def filterlatest(content,count=10):
         return c[:count]
     else:
         return c
+    
+def excludefuture(items, enabled):
+    if not enabled:
+        return items
+    return [i for i in items if not i.has_key('date') or i["date"]<=datetime.date.today()]
 def filterfirst(content,count=10):
     if len(content)>count:
         return content[:count]
@@ -105,3 +110,4 @@ filters['youtube'] = youtube
 filters['today'] = today
 filters['license'] = license
 filters['coloredDot'] = coloredDot
+filters['excludefuture'] = excludefuture
