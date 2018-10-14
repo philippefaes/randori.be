@@ -1,13 +1,12 @@
 ---
 title: Wie
+longtitle: Wie is Philippe?
 layout: page
 comments: False
 thumbnail: /images/philippe_norte.jpg
 teaser: <ul><li>Ondernemer</li> <li>Coach</li> <li>Pelgrim</li></ul>
 ---
 
-
-# Wie is Philippe?
 > Ondernemer, coach en pelgrim. <br/> 
 > Verzamelt chaos. <br/>
 > Houdt van tech. Houdt meer van mensen dan van tech.
