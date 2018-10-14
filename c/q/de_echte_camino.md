@@ -6,7 +6,7 @@ comments: false
 thumbnail: /images/q/de_echte_camino_s.jpg
 
 layout: quote
-date: 2018-10-02
+date: 2018-09-20
 tags:
     - camino
     - quote

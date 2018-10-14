@@ -4,7 +4,7 @@ layout: quote
 pager: True
 comments: True
 thumbnail: /images/q/we_are_all_pilgrims_s.jpg
-date: 2018-10-02
+date: 2018-09-25
 pager: True
 tags:
     - camino
