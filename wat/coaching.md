@@ -3,10 +3,10 @@ title: Starters- en Ondernemerscoaching
 layout: page
 comments: False
 thumbnail: /images/coaching.jpg
-teaser: Startersadvies en ondernemerscoaching, <br/> hands-on helpen met je businessplan
+teaser: <ul><li>Startersadvies en ondernemerscoaching,<li> hands-on helpen met je businessplan</li><li>...</li></ul>
 ---
 
-![Philippe Faes coacht](/images/philippe_norte.jpg)
+![Philippe Faes coacht](/images/coaching.jpg)
 
 
 * Eén-op-één coaching
@@ -14,4 +14,4 @@ teaser: Startersadvies en ondernemerscoaching, <br/> hands-on helpen met je busi
 * Werken aan je bussinessplan, financieel plan, investeringsplan ...
 * Marketing, Strategie, Sales, Operations, ...
 
-[Neem contact op](/contact.html) — [appointment]
+[Neem contact op](/contact.html) — [/bookme]

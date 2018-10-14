@@ -200,6 +200,9 @@ div.teaser{
 	padding-left:10px;
 	padding-right:10px;
 	font-size: 110%;
-	height: 100px;
-		
+	height: 100px;		
+}
+
+.contact h4 {
+	text-align:center;
 }

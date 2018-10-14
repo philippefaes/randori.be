@@ -3,7 +3,6 @@ title: Veranderen door te Wandelen
 layout: page
 comments: False
 thumbnail: /images/full_backpack.jpg
-teaser: Veranderen door te Wandelen
 ---
 
 ![Philippe Faes wandelt](/images/full_backpack.jpg)
