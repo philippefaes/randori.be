@@ -66,11 +66,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/q/frontpage.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/c/b/siddartha.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -161,12 +156,22 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/q/frontpage.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/c/a/fisterra.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>http://www.randori.be/c/b/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/evenwicht.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
