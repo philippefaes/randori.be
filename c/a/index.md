@@ -5,5 +5,5 @@ order: date
 reverse: True
 pager: False
 excludefuture: True
-thumbnail: /images/schatkist.jpg
+thumbnail: /images/schrijven.jpg
 ---
