@@ -43,10 +43,10 @@ Naast mijn formele opleiding als burgerlijk ingenieur, heb ik verschillende ople
 
 * Doctor in de Ingenieurswetenschappen, Computerwetenschappen, 2008, UGent
 * Postgraduaat Inspirerend Coachen, 2016 — 2019, [Arteveldehogeschool](https://www.arteveldehogeschool.be/opleidingen/postgraduaat/inspirerend-coachen)
-* Master Class Wandercoaching, Oktober 2018, YourCoach
+* Master Class Wandercoaching, Oktober 2018, [wanderwood] / [yourcoach]
 * Kindertalentenfluisteraar, 2017 ([meer info](https://www.kindertalentenfluisteraar.com/))
-* Verschillende opleidingen Enneagram persoonlijkheidstypering, 2013 — heden, Improve
-* NLP Practitioner, 2014, TweeVoorTwaalf
+* Verschillende opleidingen Enneagram persoonlijkheidstypering, 2013 — heden, [improve]
+* NLP Practitioner, 2014, [TweeVoorTwaalf](https://improve.be/)
 * Innovation Management, 2008, Vlerick Leuven-Gent Management School,
 * Uitwisselingsprogramma, 1996 — 1997, Madison High School, Portland, Oregon, USA
 * Attest jeugdanimator, attest hoofdanimator, 1994 — 1995
