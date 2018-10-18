@@ -12,7 +12,7 @@ Gisteren is het een jaar geleden dat ik voor het eerst Santiago de Compostela bi
 
 In persoonlijke gesprekken met vrienden en vreemden noem ik mezelf vaak *pelgrim*. Ik schrijf ook dat ik een pegrim ben in een eerdere column op deze website. (Lees ook: [pelgrim]) En toch was ik niet dapper genoeg om dat woord bovenaan op de hoofdpagina van mijn website te zetten. Omdat ik schrik had om professioneel niet serieus genoeg genomen te worden. Omdat ik mij plooide naar de vooroordelen van anderen. Niet de vooroordelen die ik gehoord had van anderen, maar de vooroordelen die ik *veronderstel* van anderen. 
  
-> Bring your whole self to work — [Mike Robbins](https://mike-robbins.com/tedxberkeley)
+> [/c/q/bring_your_whole_self] – Mike Robbins
 
 Gisteren luisterde ik nog eens naar een aflevering van de [dan_mullins_podcast]. Daarin vertelde een pelgrim dat ze zich nog steeds pelgrim voelde, ook nadat ze weer thuis was na haar pelgrimstocht. Dat voel ik ook, en dat zeg ik ook. En vanaf nu ook bovenaan mijn hoofdpagina. En op mijn [linkedin].  
 

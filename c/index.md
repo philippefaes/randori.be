@@ -8,6 +8,7 @@ content:
 pager: False
 excludefuture: True
 thumbnail: /images/schatkist.jpg
+tagline: Randori - mijn verzameling chaos
 teaser: Randori is een japans woord dat betekent "chaos verzamelen". Ik balanceer graag op de grens tussen orde en chaos. Hier is een stukje van mijn verzameling.
 recent:
     - /c/a/
@@ -15,16 +16,8 @@ recent:
     - /c/q/
 ---
 
-# Randori - mijn verzameling chaos
-
-### [a/randori]
-
-<!-- coming
-Do everything with love and truth. -- quote van pelgrium uit Dan Mullins
-
-De eerste stap -- Lao Tse 
-
-Bring your whole self to work — Mike Robbins
 
 
--->
+###  Leestip: [a/randori]
+
+<h2 class="recent-items">Categorieën</h2>

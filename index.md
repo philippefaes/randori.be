@@ -8,6 +8,5 @@ content:
     - contact
     - more
 pager: False
-tagline: Philippe Faes
-abstract: Veranderen door te Wandelen
+tagline: Veranderen door te Wandelen
 ---
