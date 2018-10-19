@@ -41,12 +41,13 @@ Sindsdien wandel ik regelmatig en veel. En noem ik mezelf, los van elke religie,
 # Opleidingen
 Naast mijn formele opleiding als burgerlijk ingenieur, heb ik verschillende opleidingen en trajecten gevolgd rond leiderschap en zelfontwikkeling:
 
-* Doctor in de Ingenieurswetenschappen, Computerwetenschappen, 2008, UGent
+* Doctor in de Ingenieurswetenschappen, Computerwetenschappen, 2008, [UGent](https://www.ugent.be/ea)
 * Postgraduaat Inspirerend Coachen, 2016 — 2019, [Arteveldehogeschool](https://www.arteveldehogeschool.be/opleidingen/postgraduaat/inspirerend-coachen)
 * Master Class Wandercoaching, Oktober 2018, [wanderwood] / [yourcoach]
 * Kindertalentenfluisteraar, 2017 ([meer info](https://www.kindertalentenfluisteraar.com/))
+* Crucial Conversations, Mei 2017, [Vitalsmarts Benelux](https://www.vitalsmarts.nl)
 * Verschillende opleidingen Enneagram persoonlijkheidstypering, 2013 — heden, [improve]
 * NLP Practitioner, 2014, [TweeVoorTwaalf](https://improve.be/)
-* Innovation Management, 2008, Vlerick Leuven-Gent Management School,
+* Innovation Management, 2008, [vlerick]
 * Uitwisselingsprogramma, 1996 — 1997, Madison High School, Portland, Oregon, USA
 * Attest jeugdanimator, attest hoofdanimator, 1994 — 1995
