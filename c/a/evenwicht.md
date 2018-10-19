@@ -15,6 +15,9 @@ Bij "evenwicht", en zeker als dat woord valt in combinatie met "ondernemerschap"
 Als tweede poging hebben mensen het dan over een evenwicht tussen *werk en privé*. De onderliggende veronderstelling is dan dat dit een Yin en Yang zou zijn, alsof het ene een noodzakelijk kwaad is en het ander voldoening geeft. Dat is een valse veronderstelling. Werk kan ook erg bevredigend zijn. Als dat niet zo is, kan je best van job veranderen. En familie houdt ook soms verplichtingen in die je geen energie geven. Denk bijvoorbeeld aan het nieuwjaarsbezoekje bij de schoonfamilie.
 
 # Life pie
+Een populaire manier die coaches en loopbaanbegeleiders gebruiken om je eigen interne evenwichten te onderzoeken in de "life pie" of "life balance wheel". Hierbij worden een aantal deelgebieden van het leven voorgesteld op een cirkel. Voor elk deelgebied kleur je dan in hoe tevreden je bent met dat gebied. Deze oefening kan dienen om het gesprek met een coach op gang te brengen, of om zelf in de gaten te houden welk onderdeel van je leven je verwaarloost.
+
+Google: [Life balance wheel](https://www.google.be/search?q=life+balance+wheel). 
 
 # Allemaal D's
 
