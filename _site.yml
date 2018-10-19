@@ -7,6 +7,7 @@ bootstrap: 3.3.4
 navbar_right_items: 1
 google_analytics: UA-89086991-1
 cname: www.randori.be
+copyright_years: 2017-2018
 
 reflinks:
     aboutme:

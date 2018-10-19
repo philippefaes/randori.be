@@ -1,5 +1,5 @@
 ---
-title: Collectie Chaos
+title: Mijn Chaos
 layout: index_tn
 content: 
     - a

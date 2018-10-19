@@ -1,5 +1,5 @@
 ---
-title: Quotes
+title: Citaten
 layout: index_tnq
 
 pager: True

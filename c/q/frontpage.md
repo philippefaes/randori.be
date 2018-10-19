@@ -1,5 +1,5 @@
 ---
-title: Quotes
+title: Citaten
 layout: quote
 pager: True
 comments: True

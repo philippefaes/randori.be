@@ -9,5 +9,5 @@ content:
     - consulting
 pager: True
 thumbnail: /images/coaching.jpg
-teaser: <ul><li>Veranderen door te wandelen</li><li> Business coacing</li><li>Interim management</li></ul>
+teaser: <ul><li>Veranderen door te wandelen</li><li> Business coaching</li><li>Interim management</li></ul>
 ---
