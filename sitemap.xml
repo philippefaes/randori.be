@@ -41,6 +41,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/q/frontpage.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/wat/wandel.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -62,6 +67,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/a/juiste_richting.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/contact.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -151,7 +161,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/q/frontpage.html</loc>
+        <loc>http://www.randori.be/c/a/kantelpunt.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -172,11 +182,6 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/wat_is_een_pelgrim.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/contact.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
