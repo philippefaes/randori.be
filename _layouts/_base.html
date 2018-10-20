@@ -22,7 +22,7 @@
     {% endif %}
     <link href="{{url_prefix + '/css/site.css'}}" rel="stylesheet" media="screen">
     <link href="{{url_prefix + '/css/syntax.css'}}" rel="stylesheet" media="screen">
-
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -78,8 +78,9 @@
             {%   endif %}
             {% endfor %}
           </ul>
-
+          
           <ul class="nav navbar-nav navbar-right">
+            {% include 'social.html' %}
             {% for item in site.reflinks['/'].content[-navbar_right_items:] %}
             {%   set context = '' %}
             {%   if item.components|d and this.components[0] == item.components[0] %}

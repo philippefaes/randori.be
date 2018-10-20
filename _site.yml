@@ -8,7 +8,11 @@ navbar_right_items: 1
 google_analytics: UA-89086991-1
 cname: www.randori.be
 copyright_years: 2017-2018
-
+social:
+    linkedin:  https://be.linkedin.com/in/philippefaes
+    facebook:  https://www.facebook.com/Randori-253927758658069
+    instagram: https://www.instagram.com/philipperandori/
+    twitter:   https://www.twitter.com/shadowofleaves/
 reflinks:
     aboutme:
         url: https://be.linkedin.com/in/philippefaes
