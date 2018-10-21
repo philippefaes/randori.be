@@ -13,4 +13,10 @@ thumbnail: /images/siddartha.jpg
 * Finding Meaning in the Second Half of Life, James Hollis
 * De Alchemist, Paolo Coelho 
 
+<!--
+
+* Memories, Dreams and Reflections by Carl Jung
+
 ## Boeken die de moeite zijn om te lezen:
+
+-->
