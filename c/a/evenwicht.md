@@ -3,7 +3,7 @@ title: Evenwicht
 layout: page 
 pager: true
 comments: true
-date: 2018-10-22
+date: 2999-12-31
 thumbnail: /images/voordracht_starterslabo.jpg
 ---
 
