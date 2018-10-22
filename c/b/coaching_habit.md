@@ -8,6 +8,7 @@ date: 2018-10-21
 thumbnail: /images/coaching_habit_selfie.jpg
 tags:
     - book
+    - coaching
 reflinks:
     coaching_habit_videos:
         url: https://boxofcrayons.com/the-coaching-habit-book/the-coaching-habit-videos/
