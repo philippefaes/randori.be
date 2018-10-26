@@ -4,7 +4,7 @@ layout: quote
 pager: True
 comments: True
 date: 2018-10-25
-thumbnail: /images/q/Lao_tze.jpg
+thumbnail: /images/q/lao_tze.jpg
 tags:
     - camino
     - quote
