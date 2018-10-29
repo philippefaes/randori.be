@@ -71,6 +71,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/q/pelgrim_bedankt.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/contact.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -107,6 +112,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/a/uit_de_kast.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/b/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -156,7 +166,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/index.html</loc>
+        <loc>http://www.randori.be/c/b/coaching_habit.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -191,12 +201,17 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/q/camino_geeft_je_antwoorden.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/c/a/eerlijk.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/coaching_habit.html</loc>
+        <loc>http://www.randori.be/c/q/iedereen_wandelt_zijn_eigen_camino.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
