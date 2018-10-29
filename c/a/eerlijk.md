@@ -3,7 +3,7 @@ title: Eerlijk zijn
 layout: page
 pager: True
 comments: true
-date: 2999-12-31
+date: 2018-10-29
 thumbnail: /images/lookingup.jpg
 ---
 
@@ -24,4 +24,4 @@ Maar eerlijk zijn is ook doen wat je gelooft en wat je voelt.
 *Als je doet wat je niet voelt, ben je oneerlijk tegen jezelf.* 
 
 Dat is de ergste vorm van oneerlijkheid.
- 
+
