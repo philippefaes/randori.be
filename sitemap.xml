@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
     <url>
-        <loc>http://www.randori.be/wat/coaching.html</loc>
+        <loc>http://www.randori.be/wat/consulting.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -26,7 +26,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/index.html</loc>
+        <loc>http://www.randori.be/news/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -71,6 +71,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/b/siddartha.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/tag/book/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -91,12 +96,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/siddartha.html</loc>
+        <loc>http://www.randori.be/news/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/wat/consulting.html</loc>
+        <loc>http://www.randori.be/wat/coaching.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -117,6 +122,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/a/tattoo.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -176,12 +186,17 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/q/</loc>
+        <loc>http://www.randori.be/c/a/bank_holiday.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/bank_holiday.html</loc>
+        <loc>http://www.randori.be/news/aanbod.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
