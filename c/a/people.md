@@ -3,7 +3,7 @@ title: People, people, people
 layout: page
 pager: True
 comments: true
-date: 2018-11-05
+date: 2018-11-03
 thumbnail: /images/people_dice.jpg
 language: en
 tags:
