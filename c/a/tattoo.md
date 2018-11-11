@@ -4,10 +4,10 @@ layout: page
 pager: True
 comments: true
 date: 2018-11-12
-thumbnail: /images/tattoos32.jpg
+thumbnail: /images/tattoos.jpg
 ---
 
-![Tattoo](/images/tattoos.jpg)
+![Tattoo](/images/kilt_tattoo.jpg)
 
 Een half jaar na [mijn eerste Camino](/c/a/pelgrim) verschoof er iets in mij. Ik had de heimwee naar Galicië wat los kunnen laten en ik had voor mezelf uitgemaakt dat ik [voor de rest van mijn leven een pelgrim zou blijven](/c/a/wat_is_een_pelgrim). Het afgelopen jaar was zo'n groot kantelpunt geweest dat ik dat zichtbaar wilde maken. En de manier waarop, dat was een tatoeage.  
 
