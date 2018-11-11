@@ -2,8 +2,8 @@
 title: Randori
 layout: index_tn
 content:
-    - wie
     - wat
+    - wie
     - c
     - contact
     - more
