@@ -20,4 +20,4 @@ Een weekend in Zeeland of de Ardennen, of
 <h4>Lang</h4>
 Twee weken wandelen in Noord-Spanje.
 
-<h4>→ <a href="contact">Neem contact op voor een kennismaking.</a></h4>
+<h4>→ <a href="/contact.html">Neem contact op voor een kennismaking.</a></h4>
