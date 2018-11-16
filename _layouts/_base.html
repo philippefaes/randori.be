@@ -65,15 +65,15 @@
             {%   endif %}
             {%   if item.content|d and item.dropdown %}
             <li{{context}} class="dropdown">
-              <a href="{{item.url}}" class="dropdown-toggle" data-toggle="dropdown">{{item.title}} <b class="caret"></b></a>
+              <a href="{{item.url}}" class="dropdown-toggle" data-toggle="dropdown">{{item.menutitle or item.title}} <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 {% for subitem in item.content %}
-                <li><a href="{{subitem.url}}">{{subitem.title}}</a></li>
+                <li><a href="{{subitem.url}}">{{subitem.menutitle or subitem.title}}</a></li>
                 {% endfor %}
               </ul>
             </li>
             {% else %}
-            <li{{context}}><a href="{{item.url}}">{{item.title}}</a></li>
+            <li{{context}}><a href="{{item.url}}">{{item.menutitle or item.title}}</a></li>
             {%   endif %}
             {% endfor %}
           </ul>
@@ -87,15 +87,15 @@
             {%   endif %}
             {%   if item.content|d and item.dropdown %}
             <li{{context}} class="dropdown">
-              <a href="{{item.url}}" class="dropdown-toggle" data-toggle="dropdown">{{item.title}} <b class="caret"></b></a>
+              <a href="{{item.url}}" class="dropdown-toggle" data-toggle="dropdown">{{item.menutitle or item.title}} <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 {% for subitem in item.content %}
-                <li><a href="{{subitem.url}}">{{subitem.title}}</a></li>
+                <li><a href="{{subitem.url}}">{{subitem.menutitle or subitem.title}}</a></li>
                 {% endfor %}
               </ul>
             </li>
             {% else %}
-            <li{{context}}><a href="{{item.url}}">{{item.title}}</a></li>
+            <li{{context}}><a href="{{item.url}}">{{item.menutitle or item.title}}</a></li>
             {%   endif %}
             {% endfor %}
           </ul>
