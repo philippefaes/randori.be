@@ -1,6 +1,6 @@
 ---
-title: Wie
-longtitle: Wie is Philippe?
+title: Wie is Philippe?
+menutitle: Wie
 layout: page
 comments: False
 thumbnail: /images/philippe_norte.jpg
