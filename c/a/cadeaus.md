@@ -3,7 +3,7 @@ title: Cadeautjes in de rugzak
 layout: page
 pager: True
 comments: true
-date: 2018-12-03
+date: 2018-11-19
 thumbnail: /images/backpack32.jpg
 tags:
     - camino
