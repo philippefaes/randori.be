@@ -23,7 +23,7 @@ Zo is het ook wanneer je weer thuis komt. Alle bezittingen hebben een kost. Ze k
 Mensen die nogal economisch of praktisch of materieel ingesteld zijn kunnen argumenteren dat je die ruimte toch al hebt en dat die emotionele kost niet zo belangrijk is. Bedenk dan eens: als je een vast bedrag aan huur zou moeten betalen aan jezelf voor de "plankruimte" die je spullen gebruiken, plus een recycleerpremie om de dingen later weer weg te gooien. Zou je ze dan nog kopen?   
 
 ##Geven en Krijgen
-Met de feestdagen die er aan komen zullen er weer veel cadeautjes gegeven en gekregen worden. Wat mij betreft: graag geen cadeautjes die ik in mijn rugzak moet meedragen. Liever iets lekkers, iets om te doen, of een gift aan een goed doel. 
+Met de feestdagen die er aan komen zullen er weer veel cadeautjes gegeven en gekregen worden. Wat mij betreft: graag geen cadeautjes die ik in mijn rugzak moet meedragen. Geef je liefde, geeft je tijd, geef iets lekkers, iets om te doen, of een gift aan een goed doel. 
 
 <br/>
 Leestips: [Unclutterer](https://unclutterer.com/) en hun [Gift Giving Guide](https://unclutterer.com/category/gift-giving-guide/)
