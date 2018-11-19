@@ -1,5 +1,5 @@
 ---
-title: Losse schrijfsels
+title: Losse bedenkingen
 layout: index_tn
 order: date
 reverse: True

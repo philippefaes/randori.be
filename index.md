@@ -7,7 +7,10 @@ content:
     - c
     - contact
     - more
+recent: True
+recent_title: <a href="/c/">Mijn Verzameling Chaos</a>
 pager: False
+excludefuture: True
 tagline: Veranderen door te Wandelen
 ---
 
@@ -19,4 +22,3 @@ tagline: Veranderen door te Wandelen
   <br/>
 </h4>
 </div>
-

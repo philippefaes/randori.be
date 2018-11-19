@@ -1,15 +1,16 @@
 ---
-title: Veranderen door te Wandelen
+title: Wat ik voor je kan doen?
 tagline: "&nbsp;"
 menutitle: Wat
 layout: index
 content: []
 comments: False
 thumbnail: /images/full_backpack.jpg
+teaser: Ik help ondernemers en managers belangrijke veranderingen te maken.
 ---
 
 ![Philippe Faes wandelt](/images/full_backpack.jpg)
-## Wat ik voor je kan doen?
+# Veranderen door te Wandelen 
 Ik help ondernemers en managers om belangrijke veranderingen te maken. Dat doe ik door samen te wandelen.
 
 
@@ -40,10 +41,10 @@ In een *coachende* rol help ik je om zelf oplossingen te vinden. Als ik *advies*
 
 ## Hoe lang?
 
-* **Uren**: anderhalf uur wandelen in de natuur. — [[maak een afspraak](/bookme.html)]
-* **Dagen**: een twee-daagse in de Ardennen. — [[hou me op de hoogte](mailto:philippe@randori.be?subject=Hou+me+op+de+hoogte+van++veranderen+door+te+wandelen+in+Ardennen)]
-* **Weken**: twee weken weg van de dagelijkse routine, in Noord-Spanje. — [[hou me op de hoogte](mailto:philippe@randori.be?subject=Hou+me+op+de+hoogte+van+veranderen+door+te+wandelen+in+Spanje)]
-* **Aangepast** aan wat jij nodig hebt, in de natuur of in jouw bedrijf. — [[neem contact op](/contact.html)]
+* **Uren**: anderhalf uur wandelen in de natuur. — [maak een afspraak](/bookme.html)
+* **Dagen**: een twee-daagse in de Ardennen. — [hou me op de hoogte](mailto:philippe@randori.be?subject=Hou+me+op+de+hoogte+van++veranderen+door+te+wandelen+in+Ardennen)
+* **Weken**: twee weken weg van de dagelijkse routine, in Noord-Spanje. — [hou me op de hoogte](mailto:philippe@randori.be?subject=Hou+me+op+de+hoogte+van+veranderen+door+te+wandelen+in+Spanje)
+* **Aangepast** aan wat jij nodig hebt, in de natuur of in jouw bedrijf. — [neem contact op](/contact.html)
 
 ## Lees ook:
 

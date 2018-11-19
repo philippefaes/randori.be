@@ -28,18 +28,25 @@
     </div>
     
     <div class="col-md-12 thumbnail-index" role="main">
+      {% if (this.content|excludefuture(this.excludefuture)|excludewithoutthumbnail).__len__() == 2 %}
+        <div class="col-md-2 "> </div>
+      {% endif %}
       {% for item in this.content|excludefuture(this.excludefuture) %}
-      {% include 'thumbnail.html' %}
+      {% if this.title == "Citaten" %}
+        {% include 'thumbnail_q.html' %}
+      {% else %}
+        {% include 'thumbnail.html' %}
+      {% endif %}
       {% endfor %}
     </div>
     
 	{% if this.recent %}
     <div class="col-md-12" role="main">
-        <h2 class="recent-items" id="recent">Recente items</h2>
+        <h2 class="recent-items" id="recent">{{ this.recent_title or "Recente items" }}</h2>
     </div>
 
     <div class="col-md-12 thumbnail-index" role="main">
-      {% for item in this.content|filtercontent(this.recent)|excludefuture(this.excludefuture)|filterlatest(12) %}
+      {% for item in this.content|recursecontent|excludefuture(this.excludefuture)|filterlatest(2048) %}
             {% include 'thumbnail.html' %}
       {% endfor %}
     </div>

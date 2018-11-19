@@ -45,11 +45,28 @@ def cutoff(text,length=30):
         return text[:length]+"..."
     else:
         return text
+def recursecontent(items):
+    contents = [item['content'] for item in items if item.has_key('content')]
+    contents = sum(contents,[])
+    if contents:
+        children = recursecontent(contents)
+        contents += children
+    return contents
+    #second = [recursecontent(item) for item in first if item.has_key('content')]
+    
 def filtercontent(sections,urls=["/tech/"]):
+    return recursecontent (sections)
+
+    # TODO: filter
     if type(urls)==str:
         urls=[urls]
+#     print len(sections)
+#     print type(sections[0])
+#     print sections[0].keys()
+    
     contents = [section['content'] for section in sections if section['url'] in urls]
     return sum(contents,[])
+
 def filtertag(content,tag):
     return [item for item in content if tag in item.get('tags',[])]
 
@@ -65,16 +82,21 @@ def recurse(content):
             result.append(item)
     return result
 def filterlatest(content,count=10):
+    content = [item for item in content if item.has_key('date')]
     c =  sorted(content,key=lambda c:c.get('date'),reverse=True)
     if len(c)>count:
         return c[:count]
     else:
         return c
     
+def excludewithoutthumbnail(items):
+    return [i for i in items if i.has_key('thumbnail') ]
+    
 def excludefuture(items, enabled):
     if not enabled:
         return items
     return [i for i in items if not i.has_key('date') or i["date"]<=datetime.date.today()]
+
 def filterfirst(content,count=10):
     if len(content)>count:
         return content[:count]
@@ -111,3 +133,5 @@ filters['today'] = today
 filters['license'] = license
 filters['coloredDot'] = coloredDot
 filters['excludefuture'] = excludefuture
+filters['excludewithoutthumbnail'] = excludewithoutthumbnail
+filters['recursecontent'] = recursecontent

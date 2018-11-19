@@ -1,5 +1,5 @@
 ---
-title: Mijn Chaos
+title: Mijn Verzameling Chaos
 layout: index_tn
 content: 
     - a
@@ -7,13 +7,15 @@ content:
     - q
 pager: False
 excludefuture: True
-thumbnail: /images/schatkist.jpg
-tagline: Randori - mijn verzameling chaos
+tagline: losse bedenkingen, boeken, citaten
+
 teaser: Randori is een japans woord dat betekent "chaos verzamelen". Ik balanceer graag op de grens tussen orde en chaos. Hier is een stukje van mijn verzameling.
+excludefuture: true
 recent:
     - /c/a/
     - /c/b/
     - /c/q/
+# thumbnail: /images/schatkist.jpg
 ---
 
 

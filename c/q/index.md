@@ -1,6 +1,6 @@
 ---
 title: Citaten
-layout: index_tnq
+layout: index_tn
 
 pager: True
 order: date

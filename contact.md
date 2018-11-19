@@ -1,12 +1,13 @@
 ---
 title: Contact
+tagline: "&nbsp;"
 layout: home
 comments: False
 pager: False
 ---
 
-<div class="contact">
-<div class="col-md-3">
+<div class="contact col-md-10 col-md-offset-1">
+<div class="col-md-4">
   <a href="mailto:philippe@randori.be">
     <h4>Stuur me een email</h4>
     <div class="crop-quote"><img src="/images/email.png" alt="Wat"></div>
@@ -14,7 +15,7 @@ pager: False
   </a>
 </div>
 
-<div class="col-md-3">
+<div class="col-md-4">
   <a href="call:+32494872272">
     <h4>Bel me</h4>
     <div class="crop-quote"><img src="/images/phone.png" alt="Wat"></div>
@@ -22,17 +23,20 @@ pager: False
   </a>
 </div>
 
-<div class="col-md-3">
+<div class="col-md-4">
   <a href="/bookme.html">
     <h4>Maak een afspraak</h4>
     <div class="crop-quote"><img src="/images/calendar.png" alt="Wat"></div>
+    <p>mijn agenda</p>
   </a>
 </div>
 
-<div class="col-md-3">
+<!--div class="col-md-3">
   <a href="https://www.linkedin.com/in/philippefaes/" target="_blank">
-    <h4>LinkedIn</h4>
+    <h4>Link met mij</h4>
     <div class="crop-quote"><img src="/images/linkedin.png" alt="Wat"></div>
+    <p>LinkedIn</p>
   </a>
-</div>
+</div-->
+
 </div>

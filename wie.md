@@ -1,10 +1,11 @@
 ---
 title: Wie is Philippe?
+tagline: "&nbsp;"
 menutitle: Wie
-layout: page
+layout: index
 comments: False
 thumbnail: /images/philippe_norte.jpg
-teaser: <ul><li>Ondernemer</li> <li>Coach</li> <li>Pelgrim</li></ul>
+teaser: Ondernemer — Coach — Pelgrim (met kilt) <br/>
 ---
 
 > Ondernemer, coach en pelgrim. <br/> 
