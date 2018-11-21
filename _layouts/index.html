@@ -6,7 +6,7 @@
 <div class="jumbotron">
   <div class="container">
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 text-center">
+      <div class="col-lg-10 col-md-offset-1 text-center">
         <h1>{{this.title}}</h1>
         <h2>{{this.tagline}}</h2>
           <p>{{this.abstract}}</p>
@@ -22,7 +22,7 @@
   <div class="row">
     <div class="content">
       {% block content %}
-      <div class="col-md-8 col-md-offset-2" role="main">
+      <div class="col-lg-8 col-md-offset-2" role="main">
         <div role="main">
         {{this.body}}
         </div>
@@ -34,7 +34,7 @@
       </div>
       {% endblock %}
     </div>
-    <div class="col-md-8 col-md-offset-2" role="main">
+    <div class="col-lg-8 col-md-offset-2" role="main">
       {% for item in this.content %}
       <h4><a href="{{item.url}}">{{item.title}}</a>
         {% if item.date|d %}

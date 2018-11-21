@@ -5,7 +5,7 @@
 <div class="jumbotron">
   <div class="container">
     <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center">
+      <div class="col-lg-8 col-md-offset-2 text-center">
         <h1>{{this.title}}</h1>
         <h2>{{this.tagline}}</h2>
           <p>{{this.abstract}}</p>
@@ -19,7 +19,7 @@
   <div class="row">
     <div class="content">
       {% block content %}
-      <div class="col-md-12" role="main">
+      <div class="col-lg-12" role="main">
         <div role="main">
         {{this.body}}
         </div>
@@ -27,9 +27,9 @@
       {% endblock %}
     </div>
     
-    <div class="col-md-12 thumbnail-index" role="main">
+    <div class="col-lg-12 thumbnail-index" role="main">
       {% if (this.content|excludefuture(this.excludefuture)|excludewithoutthumbnail).__len__() == 2 %}
-        <div class="col-md-2 "> </div>
+        <div class="col-lg-2 "> </div>
       {% endif %}
       {% for item in this.content|excludefuture(this.excludefuture) %}
       {% if this.title == "Citaten" %}
@@ -41,11 +41,11 @@
     </div>
     
 	{% if this.recent %}
-    <div class="col-md-12" role="main">
+    <div class="col-lg-12" role="main">
         <h2 class="recent-items" id="recent">{{ this.recent_title or "Recente items" }}</h2>
     </div>
 
-    <div class="col-md-12 thumbnail-index" role="main">
+    <div class="col-lg-12 thumbnail-index" role="main">
       {% for item in this.content|recursecontent|excludefuture(this.excludefuture)|filterlatest(2048) %}
             {% include 'thumbnail.html' %}
       {% endfor %}

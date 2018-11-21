@@ -37,7 +37,7 @@
   <div class="row">
     <div class="content">
       {% block content %}
-      <div class="col-md-9" role="main">
+      <div class="col-lg-9" role="main">
         <div role="main">
         {{this.body}}
         </div>
@@ -51,8 +51,8 @@
     </div>
 
     {% block sidebar %}
-    {% if this.toc %}
-    <div class="col-md-3" role="complementary">
+    {% if this.showtoc and this.toc %}
+    <div class="col-lg-3" role="complementary">
       <nav class="hidden-print hidden-xs hidden-sm">
         <div class="sidebar" data-spy="affix" data-offset-top="80" data-offset-bottom="60">
           <div class="well">
