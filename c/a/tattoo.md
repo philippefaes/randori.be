@@ -25,4 +25,4 @@ Ook mijn kinderen vonden het maar niks. En dat is nu net een mooi leermoment. Ik
 
 #### Links
 
-* [https://www.instagram.com/bubblegumbitch_tattoo/](https://www.instagram.com/bubblegumbitch_tattoo/)
+* [https://www.instagram.com/<wbr>bubblegumbitch_tattoo/](https://www.instagram.com/bubblegumbitch_tattoo/)
