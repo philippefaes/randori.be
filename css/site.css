@@ -117,10 +117,9 @@ h3[id]:before{
 
 /* randori.be specific */
 
-
 .content img {
     float: right;
-    width: 40%;
+    width: 50%;
     padding: 10px;
 }
 img.quote {
@@ -185,7 +184,7 @@ h2.recent-items{
 .crop img {
 	padding-left:10px;
 	padding-right:10px;
-    width:350px;
+    width:100%;
 }
 
 .crop-quote {
