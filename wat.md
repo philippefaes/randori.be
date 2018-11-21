@@ -9,8 +9,9 @@ thumbnail: /images/full_backpack.jpg
 teaser: Ik help ondernemers en managers belangrijke veranderingen te maken.
 ---
 
-![Philippe Faes wandelt](/images/full_backpack.jpg)
+
 # Veranderen door te Wandelen 
+![Philippe Faes wandelt](/images/full_backpack.jpg)
 Ik help ondernemers en managers om belangrijke veranderingen te maken. Dat doe ik door samen te wandelen.
 
 
