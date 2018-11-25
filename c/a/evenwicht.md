@@ -3,7 +3,7 @@ title: Evenwicht
 layout: page 
 pager: true
 comments: true
-date: 2999-12-31
+date: 2018-11-26
 thumbnail: /images/voordracht_starterslabo.jpg
 ---
 
@@ -37,9 +37,6 @@ Het is belangrijk dat je een apart moment (en misschien zelfs een aparte plaats?
  
 > Hou het strategische Denken gescheiden van het operationele Doen.
 
-# Denken, Voelen, Doen
 
+**Volgende week** voegen een derde element toe aan Denken en Doen zodat er drie in evenwicht kunnen zijn. Er komt ook een vierde element dat die drie in evenwicht kan houden.
 
-
-# Zijn
-.
