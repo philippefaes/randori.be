@@ -17,7 +17,7 @@ Ik help ondernemers en managers om belangrijke veranderingen te maken. Dat doe i
 
 In 2017 heb ik in vijf weken [900 kilometer gewandeld in Spanje](/c/pelgrim). Als je elke dag zes tot acht uur wandelt, weg van je gewone dagelijkse verplichtingen, heeft dat een grote impact op je lijf, en op je leven. Door de beweging pompt je hart meer zuurstof naar je hersenen, en krijg je een helderder beeld op de vragen of twijfels waar je op dat moment mee zit. 
 
-Maar ook met een uurtje stappen in de natuur krijg je een heel ander prespectief op de dingen. Zo kan je al een hele stap vooruit zetten. 
+Maar ook met een uurtje stappen in de natuur krijg je een heel ander perspectief op de dingen. Zo kan je al een hele stap vooruit zetten. 
 
 *Ik wil jou helpen **veranderen door te wandelen**.*
 
@@ -38,7 +38,11 @@ De verandering van een ondernemer hangt nauw samen met de verandering in zijn of
 
 Naargelang wat er nodig is kan ik schakelen tussen **coaching, advies en consulting**. 
 
-In een *coachende* rol help ik je om zelf oplossingen te vinden. Als ik *advies* geef deel ik mijn kennis, mijn netwerk en mijn ervaring. Bij *consulting* steek ik de handen echt uit de mouwen en kan ik mee werken plannen opstellen, spreadsheets maken, in jouw bedrijf praten met je medewerkers en zelfs een interim management rol opnemen. Naargelang jouw vraag en situatie werken we met één of een een combinatie van deze methodes.
+In een *coachende* rol help ik je om zelf oplossingen te vinden. Als ik *advies* geef deel ik mijn kennis, mijn netwerk en mijn ervaring. Bij *consulting* steek ik de handen echt uit de mouwen en kan ik mee werken plannen opstellen, spreadsheets maken, in jouw bedrijf praten met je medewerkers en zelfs een interim management rol opnemen. Naargelang jouw vraag en situatie werken we met één of een een combinatie van deze methodes. 
+
+Hier is mijn geheime superkracht: ik stel vragen tot ik een antwoord krijg. Ik laat niet toe dat je jezelf voorliegt, althans niet zolang ik er ben. Ik toon je wat je niet wilt zien, met het grootste respect voor jouw persoon en met minachting voor jouw ego. Mijn loyauteit gaat naar je authentieke zelf en naar jouw groet, niet naar je ego. 
+
+
 
 ## Hoe lang?
 
