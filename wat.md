@@ -15,7 +15,7 @@ teaser: Ik help ondernemers en managers belangrijke veranderingen te maken.
 Ik help ondernemers en managers om belangrijke veranderingen te maken. Dat doe ik door samen te wandelen.
 
 
-In 2017 heb ik in vijf weken [900 kilometer gewandeld in Spanje](/c/pelgrim). Als je elke dag zes tot acht uur wandelt, weg van je gewone dagelijkse verplichtingen, heeft dat een grote impact op je lijf, en op je leven. Door de beweging pompt je hart meer zuurstof naar je hersenen, en krijg je een helderder beeld op de vragen of twijfels waar je op dat moment mee zit. 
+In 2017 heb ik in vijf weken [900 kilometer gewandeld in Spanje](/c/pelgrim). Als je elke dag zes tot acht uur wandelt, weg van je gewone dagelijkse verplichtingen, heeft dat een grote impact op je lijf, en op je leven. Door de beweging pompt je hart meer zuurstof naar je hersenen, verlaagt het niveau van stresshormonen, en krijg je een helderder beeld op de vragen of twijfels waar je op dat moment mee zit. 
 
 Maar ook met een uurtje stappen in de natuur krijg je een heel ander perspectief op de dingen. Zo kan je al een hele stap vooruit zetten. 
 
