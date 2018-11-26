@@ -10,7 +10,7 @@ thumbnail: /images/voordracht_starterslabo.jpg
 ![Voordracht bij Starterslabo](/images/voordracht_starterslabo.jpg)
 
 # Work - life
-Bij "evenwicht", en zeker als dat woord valt in combinatie met "ondernemerschap", denken mensen gemakkelijk aan *work life balance*. Dat is natuurlijk een valse tegenstelling. Je werk is een deel van je leven, dus kan het niet afgewogen worden *tegenover* het leven. Als je niet tevereden bent in je werk, ben je niet tevereden in je leven. 
+Bij "evenwicht", en zeker als dat woord valt in combinatie met "ondernemerschap", denken mensen gemakkelijk aan *work life balance*. Dat is natuurlijk een valse tegenstelling. Je werk is een deel van je leven, dus kan het niet afgewogen worden *tegenover* het leven. Als je niet tevreden bent in je werk, ben je niet tevreden in je leven. 
 
 Als tweede poging hebben mensen het dan over een evenwicht tussen *werk en privé*. De onderliggende veronderstelling is dan dat dit een Yin en Yang zou zijn, alsof het ene een noodzakelijk kwaad is en het ander voldoening geeft. Dat is een valse veronderstelling. Werk kan ook erg bevredigend zijn. Als dat niet zo is, kan je best van job veranderen. En familie houdt ook soms verplichtingen in die je geen energie geven. Denk bijvoorbeeld aan het nieuwjaarsbezoekje bij de schoonfamilie.
 
@@ -21,7 +21,7 @@ Google: [Life balance wheel](https://www.google.be/search?q=life+balance+wheel).
 
 # Allemaal D's
 
-Als dat niet de evenwichten zijn die we in het oog moeten houden, welke dan wel? Er zijn veel ondernemers goeroes die zich latne inspireren door de titel van het boek [dromendurvendoen]. Om de zoveel tijd verzint iemand er nog een D bij, en dan wordt het een erg lange lijst: 
+Als dat niet de evenwichten zijn die we in het oog moeten houden, welke dan wel? Er zijn veel ondernemers goeroes die zich laten inspireren door de titel van het boek [dromendurvendoen]. Om de zoveel tijd verzint iemand er nog een D bij, en dan wordt het een erg lange lijst: 
 
 > Dromen, Durven, Denken, Doen, Doorzetten, Delen,... 
 
