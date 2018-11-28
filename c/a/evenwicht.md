@@ -7,7 +7,7 @@ date: 2018-11-26
 thumbnail: /images/work-life.jpg
 ---
 
-![Voordracht bij Starterslabo](/images/work-life.jpg)
+![Voordracht bij Starterslabo; foto door Dimitri Maes](/images/work-life.jpg)
 
 # Work - life
 Bij "evenwicht", en zeker als dat woord valt in combinatie met "ondernemerschap", denken mensen gemakkelijk aan *work life balance*. Dat is natuurlijk een valse tegenstelling. Je werk is een deel van je leven, dus kan het niet afgewogen worden *tegenover* het leven. Als je niet tevreden bent in je werk, ben je niet tevreden in je leven. 

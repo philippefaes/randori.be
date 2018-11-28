@@ -6,7 +6,7 @@ pager: False
 ---
 Maak hier een afspraak voor anderhalf uur *Veranderen door te Wandelen*, of neem rechtstreeks [contact] op met mij.
 
-De eerste kennismakingswandeling is kosteloos. Daarna is het tarief voor professionals €80 / uur excl. BTW. Particulieren en pre-starters kunnen mij [contacteren](/contact.html) voor een aangepast tarief. 
+De eerste kennismakingswandeling is kosteloos. 
 
 
 
