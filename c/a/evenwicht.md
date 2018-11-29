@@ -5,6 +5,7 @@ pager: true
 comments: true
 date: 2018-11-26
 thumbnail: /images/work-life.jpg
+teaser: Bij "evenwicht", en zeker denken mensen gemakkelijk aan work-life balance. Dat is natuurlijk een valse tegenstelling. Je werk...
 ---
 
 ![Voordracht bij Starterslabo; foto door Dimitri Maes](/images/work-life.jpg)
