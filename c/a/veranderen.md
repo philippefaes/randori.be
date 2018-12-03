@@ -3,15 +3,15 @@ title: Wat bedoel je met Veranderen?
 layout: page
 pager: True
 comments: False
-date: 2018-11-29
-thumbnail: /images/lookingup.jpg
+date: 2018-12-03
+thumbnail: /images/philippe_20181124.jpg
 ---
 
 
 
 ## "Veranderen door te Wandelen", maar wat betekent dat dan? 
 
-![Eerlijk zijn](/images/lookingup.jpg)
+![Veranderen door te Wandelen](/images/philippe_20181124.jpg)
 
 ### Voor welke verandering kan jij zorgen?
 
