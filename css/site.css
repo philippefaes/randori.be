@@ -185,8 +185,6 @@ h2.recent-items{
     overflow: hidden;
 }
 .crop img {
-	padding-left:10px;
-	padding-right:10px;
     width:100%;
 }
 
