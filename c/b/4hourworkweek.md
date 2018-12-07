@@ -10,7 +10,7 @@ tags:
     - book
 ---
 
-![4-Hour Workweek, Timothy Ferris](/images/4hour_work_week.jpg "4-Hour Workweek, Timothy Ferris")
+![4-Hour Workweek, Timothy Ferris](/images/4hour_workweek.jpg "4-Hour Workweek, Timothy Ferris")
 
 Het boek "De werkweek van 4 uur" van Timothy Ferris is zeer sterk gehyped. Iedereen wil wel geld verdienen door maar een halve dag per week te werken. Hier enkele bedenkingen.
 
