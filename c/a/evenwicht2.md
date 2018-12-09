@@ -3,7 +3,7 @@ title: Evenwicht (deel 2)
 layout: page 
 pager: true
 comments: true
-date: 2018-12-07 # 2018-12-10
+date: 2018-12-10
 thumbnail: /images/voordracht_starterslabo.jpg
 teaser: "Als we aan de tweedeling Denken en Doen een derde toevoegen: Voelen. Nu hebben we het trio Denken, Voelen en Doen. Voelen heeft te maken met de mensen..."
 ---
