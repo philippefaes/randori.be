@@ -14,6 +14,8 @@ thumbnail: /images/boekenrek.jpg
 * De Alchemist, Paolo Coelho 
 * The course of love / De weg van de liefde – Alain de Botton
 
+## Boeken
+
 <!--
 
 * Memories, Dreams and Reflections by Carl Jung
