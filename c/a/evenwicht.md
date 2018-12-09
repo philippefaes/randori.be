@@ -1,5 +1,5 @@
 ---
-title: Evenwicht
+title: Evenwicht (deel 1)
 layout: page 
 pager: true
 comments: true
@@ -41,3 +41,4 @@ Het is belangrijk dat je een apart moment (en misschien zelfs een aparte plaats?
 
 **Volgende week** voegen een derde element toe aan Denken en Doen zodat er drie in evenwicht kunnen zijn. Er komt ook een vierde element dat die drie in evenwicht kan houden.
 
+[lees verder deel 2 →](/c/a/evenwicht2.html)
