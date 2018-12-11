@@ -71,7 +71,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/siddartha.html</loc>
+        <loc>http://www.randori.be/c/q/walk_with_your_heart.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -197,6 +197,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/q/de_echte_camino.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/b/siddartha.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
