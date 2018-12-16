@@ -3,7 +3,7 @@ title: Winterstress
 layout: page
 pager: True
 comments: true
-date: 2018-12-16
+date: 2018-12-17
 thumbnail: /images/kerstmuts.jpg
 language: nl
 ---
