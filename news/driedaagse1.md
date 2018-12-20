@@ -27,34 +27,32 @@ In absoluut vertrouwen, en met een erg kleine groep. Door te wandelen, door stil
 De introductieprijs voor deze driedaagse Veranderen door te Wandelen is €660.
 
 ## Wanneer
-Woensdag 6 tot vrijdag 8 februari.
+Dinsdag 5 tot donderdag 7 februari.
 
 ## Waar
 Geheime locatie in de Ardennen
 
 ## Programma
 
-###Vooraf
-Voor wie nog niet met mij gewandeld heeft plan ik in de weken voor deze driedaagse een wandeling om persoonlijk kennis te maken.
-
-### Woensdag
-Aankomst rond 16u
-Kennismaking en korte wandeling
-Sessie 1: Waarom ben ik hier / wat wil ik veranderen?
-
-### Donderdag
-Sessie 2: Ochtend-oefening
-Wandelen 1 (20 km)
-Sessie 3: Kampvuur
-
-### Vrijdag
-Ontbijt
-Wandelen 2: Ochtendwandeling (8 km)
-Afscheid rond 12u
-
-### Achteraf
-Na de driedaagse blijf ik beschikbaar om steun te geven tijdens je veranderingen.
+* **Vooraf** 
+    * Voor wie nog niet met mij gewandeld heeft plan ik in de weken voor deze driedaagse een wandeling om persoonlijk kennis te maken.
+* **Dag 1**
+    * Aankomst rond 16u
+    * Kennismaking en korte wandeling
+    * Sessie 1: Waarom ben ik hier / wat wil ik veranderen?
+* **Dag 2**
+    * Sessie 2: Ochtend-oefening
+    * Wandelen 1 (20 km)
+    * Sessie 3: Kampvuur
+* **Dag 3**
+    * Ontbijt
+    * Wandelen 2 (8 km)
+    * Afscheid rond 12u
+* **Achteraf** 
+    * In de periode na de driedaagse blijf ik beschikbaar om steun te geven tijdens je veranderingen.
 
 ## Interesse of meer info?
 
 [Contacteer mij](/contact.html).
+
+Als de bovenstaande data niet passen, kan je me [een mailtje sturen](mailto:philippe@randori.be), en dan hou ik je op de hoogte van komende driedaagses.
