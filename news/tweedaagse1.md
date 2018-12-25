@@ -24,7 +24,7 @@ Vind je niet precies wat je wil veranderen, hoe je het moet veranderen, of houdt
 In absoluut **vertrouwen**, en met een erg kleine groep. Door te wandelen, door stil te zijn en door te praten. Door onze eigen baggage te dragen, en door twee dagen lang **onbereikbaar** te zijn. Twee dagen **zonder pintjes en wijntjes**, zodat we beter alle veranderingen kunnen aanvoelen en doormaken.
 
 ## Prijs
-De introductieprijs voor deze driedaagse Veranderen door te Wandelen is €890.
+De introductieprijs voor deze driedaagse Veranderen door te Wandelen is €660.
 
 ## Wanneer
 Dinsdag 5 februari (avond) tot donderdag 7 februari (namiddag).
