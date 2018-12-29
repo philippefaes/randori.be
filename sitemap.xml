@@ -51,17 +51,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/bank_holiday.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/tag/minimalisme/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/wat1/consulting.html</loc>
+        <loc>http://www.randori.be/preview/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -76,7 +71,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/q/walk_with_your_heart.html</loc>
+        <loc>http://www.randori.be/c/b/siddartha.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -121,22 +116,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/preview/</loc>
+        <loc>http://www.randori.be/c/q/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>http://www.randori.be/c/a/tattoo.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/de_weg_is_het_doel.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/wat1/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -181,11 +166,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/q/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/c/b/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -206,11 +186,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/siddartha.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/bookme.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -221,7 +196,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/wat1/wandel.html</loc>
+        <loc>http://www.randori.be/c/a/bank_holiday.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -306,11 +281,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/wat1/coaching.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -346,7 +316,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/wat1/</loc>
+        <loc>http://www.randori.be/c/q/de_weg_is_het_doel.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
