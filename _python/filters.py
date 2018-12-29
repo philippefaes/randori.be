@@ -52,7 +52,6 @@ def recursecontent(items):
         children = recursecontent(contents)
         contents += children
     return contents
-    #second = [recursecontent(item) for item in first if item.has_key('content')]
     
 def filtercontent(sections,urls=["/tech/"]):
     return recursecontent (sections)

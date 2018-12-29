@@ -6,6 +6,7 @@ author: Philippe Faes
 comments: False
 pager: False
 thumbnail: /images/tweedaagse.jpg
+teaser: In de winter is er tijd voor introspectie, om na te denken over het afgelopen seizoen en ook om vooruit te blikken. Wil jij in 2019 veranderen? Dan wil ik met jou gaan Wandelen!
 ---
 
 ![Wandelen om te Veranderen](/images/tweedaagse.jpg)
@@ -21,7 +22,12 @@ Heb je het gevoeld dat je **dit jaar iets wil veranderen?** Dat je iets nieuws w
 Vind je niet precies wat je wil veranderen, hoe je het moet veranderen, of houdt er iets je tegen om aan die verandering te beginnen? Dan wil ik met jou gaan **Wandelen om te Veranderen**.
 
 ## Hoe
-In absoluut **vertrouwen**, en met een erg kleine groep. Door te wandelen, door stil te zijn en door te praten. Door onze eigen baggage te dragen, en door twee dagen lang **onbereikbaar** te zijn. Twee dagen **zonder pintjes en wijntjes**, zodat we beter alle veranderingen kunnen aanvoelen en doormaken.
+In absoluut **vertrouwen**, en met een erg kleine groep. 
+Door te wandelen, niet in een lus of in cirkeltje, maar vooruit. 
+Door van de ene overnachtingsplaats naar de volgendene te stappen. Door onze **eigen baggage te dragen**.
+Door stil te zijn en ook door te praten. 
+Door twee dagen lang **onbereikbaar** te zijn. 
+Door twee dagen **zonder pintjes en wijntjes** te leven, zodat we beter alle veranderingen kunnen aanvoelen en doormaken.
 
 ## Prijs
 De introductieprijs voor deze driedaagse Veranderen door te Wandelen is €860.

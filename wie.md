@@ -10,7 +10,7 @@ teaser: Ondernemer — Coach — Pelgrim (met kilt) <br/>
 
 > Ondernemer, coach en pelgrim. <br/> 
 > Verzamelt chaos. <br/>
-> Houdt van tech. Houdt meer van mensen dan van tech.
+> Helpt mensen om te Veranderen door te Wandelen.
 
 # Ondernemer
 ![Philippe bij Sigasi](/images/sigasi_talk.jpg "Philippe legt uit wat hij niet gaat uitleggen")

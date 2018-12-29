@@ -6,6 +6,7 @@ content:
     - wat
     - wie
     - c
+    - news
     - contact
     - more
 recent: True
