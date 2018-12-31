@@ -126,6 +126,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/q/de_weg_is_het_doel.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/c/a/veranderen.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -316,7 +321,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/q/de_weg_is_het_doel.html</loc>
+        <loc>http://www.randori.be/c/a/oplappen.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
