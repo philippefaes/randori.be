@@ -12,6 +12,11 @@ teaser: Ondernemer — Coach — Pelgrim (met kilt) <br/>
 > Verzamelt chaos. <br/>
 > Helpt mensen om te Veranderen door te Wandelen.
 
+<!--
+Entrepreneur, coach en pelgrim. Collects chaos. 
+Helps people take steps to make changes.
+-->
+
 # Ondernemer
 ![Philippe bij Sigasi](/images/sigasi_talk.jpg "Philippe legt uit wat hij niet gaat uitleggen")
 Ik heb bijna tien jaar lang mijn eigen bedrijf, [Sigasi](http://www.sigasi.com), geleid. Als mede-oprichter heb ik ervaring met alle aspecten van bedrijfsvoering: sales, marketing, productontwikkeling, strategische samenwerkingen opzetten, recrutering, administratie, raden van bestuur en algemene vergaderingen. Ik heb in 2010 een investeringsronde van ongeveer een half miljoen euro doorgevoerd, en heb verschillende subsidiedossiers geschreven en goedgekeurd gekregen.
