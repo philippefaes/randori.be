@@ -6,15 +6,17 @@ author: Philippe Faes
 comments: False
 pager: False
 thumbnail: /images/winterwandeling.jpg
-teaser: In de winter is er tijd voor introspectie, om na te denken over het afgelopen seizoen en ook om vooruit te blikken. Wil jij in 2019 veranderen? Dan wil ik met jou gaan Wandelen!
+teaser: Ben je weer helemaal klaar voor 2019? Of ben je weer in snelheid gepakt door december dat weer voorbij gevlogen is? Nochtans is de winter net tijd om te vertragen en om afstand te nemen...
 ---
 
 ![Wandelen om te Veranderen](/images/winterwandeling.jpg)
 
 ## Weet je wat je gaat doen?
 
-In de winter is er tijd voor **introspectie**, tijd om na te denken over het afgelopen seizoen en tijd om vooruit te blikken naar het volgende. Tijd om afstand te nemen. **Ben je tevreden** met de veranderingen die je vorig jaar hebt meegemaakt? Weet je wat je gaat doen?
- 
+Ben je weer helemaal klaar voor 2019? Of ben je weer **in snelheid gepakt door december** dat weer voorbij gevlogen is? 
+
+Nochtans is de winter net tijd om te **vertragen** en om afstand te nemen. Ben je tevreden met de veranderingen die je vorig jaar hebt meegemaakt? Weet je wat je gaat doen in 2019? Wat wil je veranderen? Door rustig te wandelen en te praten worden dingen vaak veel duidelijker, kan je helderder zien wat er nodig is.
+
 Zonder dat er prestatiedruk hoeft te zijn over "groei" of "verbetering", is het een natuurlijk verlangen van mensen om te **blijven vooruit gaan**. Dat kan op alle vlakken en in alle richtingen. Soms betekent vooruit gaan ook echt "meer" (meer klanten, meer feestjes, meer geld) maar **vooruitgang kan ook *minder* zijn**: minder uren werken, minder producten of diensten in het assortiment, minder verplichingen, minder onnodige vergaderingen. 
 
 ## Wil je iets veranderen?
