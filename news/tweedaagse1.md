@@ -33,7 +33,9 @@ Door twee dagen **zonder pintjes en wijntjes** te leven, zodat we beter alle ver
 De introductieprijs voor deze driedaagse Veranderen door te Wandelen is €860.
 
 ## Wanneer
-Dinsdag 5 februari (avond) tot donderdag 7 februari (namiddag).
+
+* Dinsdag 5 februari 2019 (avond) tot donderdag 7 februari 2019 (namiddag).
+* Woensdag 13 maart 2019 (avond) tot vrijdag 15 maart 2019 (namiddag).
 
 ## Waar
 Geheime locatie in de Ardennen.
@@ -60,6 +62,6 @@ Geheime locatie in de Ardennen.
 
 ## Interesse of meer info?
 
-[Contacteer mij](/contact.html).
+### → [Schrijf je in.](https://docs.google.com/forms/d/e/1FAIpQLSd_ZKM1U1rxzfm2tq3u1VpVV2sxvJWcm-wky-bCDil-Hj0XTA/viewform)
 
 Als de bovenstaande data niet passen, kan je me [een mailtje sturen](mailto:philippe@randori.be), en dan hou ik je op de hoogte van komende driedaagses.
