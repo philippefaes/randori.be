@@ -96,7 +96,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/juiste_richting.html</loc>
+        <loc>http://www.randori.be/news/winterwandeling.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -221,7 +221,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/fisterra.html</loc>
+        <loc>http://www.randori.be/c/a/juiste_richting.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -312,6 +312,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/wie.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/fisterra.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
