@@ -11,6 +11,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/tag/relaties/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/c/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -47,6 +52,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/tag/entrepreneurship/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/b/sex_at_dawn.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -226,6 +236,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/tag/ondernemen/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/c/b/coaching_habit.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -277,6 +292,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/a/eerlijk.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/tag/filosfie/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
