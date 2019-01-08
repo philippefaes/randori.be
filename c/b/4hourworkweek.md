@@ -8,6 +8,7 @@ thumbnail: /images/4hour_workweek_cover.jpg
 date: 2018-12-07
 tags:
     - book
+    - ondernemen
 ---
 
 ![4-Hour Workweek, Timothy Ferris](/images/4hour_workweek.jpg "4-Hour Workweek, Timothy Ferris")
