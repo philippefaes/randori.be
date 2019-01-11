@@ -4,7 +4,7 @@ book-author: Ryan and Jethá / Saxon
 layout: page
 pager: True
 comments: true
-thumbnail: /images/sex_at_dawn.jpg
+thumbnail: /images/sexatdawn.jpg
 date: 2019-01-11
 tags:
     - book
@@ -12,7 +12,7 @@ tags:
 teaser: Mensen zoeken manieren om partnerrelaties uit te bouwen, los van oude dogma's. Hier zijn twee boeken die zich buigen over het al dan niet monogaam zijn van Homo Sapiens. 
 ---
 
-![Sex at Dawn, Ryan and Jethá](/images/sex_at_dawn.jpg "Sex at Dawn, Ryan and Jethá")
+![Sex at Dawn, Ryan and Jethá](/images/sexatdawn.jpg "Sex at Dawn, Ryan and Jethá")
 
 ## Traditionele Monogamie en Polygamie
 
