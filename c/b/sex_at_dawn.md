@@ -38,7 +38,7 @@ Auteur Lynn Saxon haalt zeer scherp uit naar de wetenschappelijke methoden van R
 
 Nadat ik de twee boeken gelezen heb, lijkt het er sterk op dat het in eerste boek vooral dingen staan die de mensen graag willen lezen. Dingen waarvan we (of sommigen) wel zouden *willen* dat ze waar zijn. Dingen die boeken doen verkopen. Het tweede boek is niet licht verteerbaar en zelfs een beetje saai. Saxon haalt stuk voor stuk stellingen van Ryan onderuit. Ze doet dat methodisch en daardoor is het verhaal van haar boek niet erg spannend.
 
-Wat ik uit dit boek onthoud is dat de psychologie twee tegenstrijdige drijfveren ziet, zelfs bij diersoorten die sociaal monogaam zijn: (1) *Iedereen gaat vreemt*, of komt minstens in de verleiding om vreemd te gaan. Minstens occasioneel opportunistisch een andere sexuele partner te hebben. (2) Iedereen is jaloers. Mannetjes willen geen kind van een ander mannetje opvoeden. Vrouwtjes willen vermijden dat zij en haar jongen het voedsel en de bescherming van het mannetje  moet delen met een ander vrouwtje. 
+Wat ik uit dit boek onthoud is dat de psychologie twee tegenstrijdige drijfveren ziet, zelfs bij diersoorten die sociaal monogaam zijn: (1) *Iedereen gaat vreemd*, of komt minstens in de verleiding om vreemd te gaan. Minstens occasioneel opportunistisch een andere sexuele partner te hebben. (2) Iedereen is jaloers. Mannetjes willen geen kind van een ander mannetje opvoeden. Vrouwtjes willen vermijden dat zij en haar jongen het voedsel en de bescherming van het mannetje  moet delen met een ander vrouwtje. 
 Als je nu zegt "ik ben niet jaloers" of "ik ga niet vreemd" doet dat niets terzake aan deze analyse, omdat dit niet over het gedrag van een enkeling gaat, maar over de aanleg van de diersoort. 
 
 ## Talk about Sex
