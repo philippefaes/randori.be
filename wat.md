@@ -40,7 +40,7 @@ Naargelang wat er nodig is kan ik schakelen tussen **coaching, advies en consult
 
 In een *coachende* rol help ik je om zelf oplossingen te vinden. Als ik *advies* geef deel ik mijn kennis, mijn netwerk en mijn ervaring. Bij *consulting* steek ik de handen echt uit de mouwen en kan ik mee werken plannen opstellen, spreadsheets maken, in jouw bedrijf praten met je medewerkers en zelfs een interim management rol opnemen. Naargelang jouw vraag en situatie werken we met één of een een combinatie van deze methodes. 
 
-Hier is mijn geheime superkracht: ik stel vragen tot ik een antwoord krijg. Ik laat niet toe dat je jezelf voorliegt, althans niet zolang ik er ben. Ik toon je wat je niet wilt zien, met het grootste respect voor jouw persoon en met minachting voor jouw ego. Mijn loyauteit gaat naar je authentieke zelf en naar jouw groet, niet naar je ego. 
+Hier is mijn geheime superkracht: ik stel vragen tot ik een antwoord krijg. Ik laat niet toe dat je jezelf voorliegt, althans niet zolang ik er ben. Ik toon je wat je niet wilt zien, met het grootste respect voor jouw persoon en met minachting voor je ego. Mijn loyauteit gaat naar je authentieke zelf en naar jouw groei, niet naar je ego. 
 
 
 
