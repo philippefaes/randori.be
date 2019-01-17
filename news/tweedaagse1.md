@@ -35,6 +35,9 @@ De introductieprijs voor deze driedaagse Veranderen door te Wandelen is €860.
 ## Wanneer
 
 * Dinsdag 5 februari 2019 (avond) tot donderdag 7 februari 2019 (namiddag).
+
+of
+
 * Woensdag 13 maart 2019 (avond) tot vrijdag 15 maart 2019 (namiddag).
 
 ## Waar
