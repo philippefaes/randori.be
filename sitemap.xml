@@ -1,52 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
     <url>
-        <loc>http://www.randori.be/c/q/unconditional_love.html</loc>
+        <loc>http://www.randori.be/c/a/veranderen.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/evenwicht2.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/aanbod/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/tag/relaties/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/just_keep_walking.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/tag/quote/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/news/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/foute_weg.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/a/pelgrim.html</loc>
+        <loc>http://www.randori.be/c/a/bank_holiday.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -61,37 +21,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/sex_at_dawn.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/tag/minimalisme/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/preview/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/news/tweedaagse1.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/c/q/we_are_all_pilgrims.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/b/siddartha.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/tag/book/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -101,37 +31,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/q/pelgrim_bedankt.html</loc>
+        <loc>http://www.randori.be/c/b/siddartha.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/contact.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/news/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/camino_geeft_je_antwoorden.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/a/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/index.html</loc>
+        <loc>http://www.randori.be/tag/minimalisme/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -141,32 +46,77 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/q/de_weg_is_het_doel.html</loc>
+        <loc>http://www.randori.be/bookme.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/veranderen.html</loc>
+        <loc>http://www.randori.be/news/aanbod.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/q/</loc>
+        <loc>http://www.randori.be/c/a/evenwicht.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/uit_de_kast.html</loc>
+        <loc>http://www.randori.be/c/a/cadeaus.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/4hourworkweek.html</loc>
+        <loc>http://www.randori.be/tag/filosfie/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/index.html</loc>
+        <loc>http://www.randori.be/c/pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/winterstress.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/het_plan.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/melancholy.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/unconditional_love.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/news/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/tag/book/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/pelgrim_bedankt.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/wie.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -176,12 +126,82 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/wat_is_een_pelgrim.html</loc>
+        <loc>http://www.randori.be/tag/coaching/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/people.html</loc>
+        <loc>http://www.randori.be/wandel_met_mij.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/de_weg_is_het_doel.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/tag/ondernemen/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/fisterra.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/lao_tze.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/tag/relaties/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/eerlijk.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/aanbod/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/b/4hourworkweek.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/evenwicht2.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/aanbod/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/love_taught_me_to_lie.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/news/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -196,42 +216,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/wandel_met_mij.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/de_echte_camino.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/bookme.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/a/cadeaus.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/a/bank_holiday.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/a/juiste_richting.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/news/aanbod.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/index.html</loc>
+        <loc>http://www.randori.be/c/q/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -241,82 +226,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/tag/ondernemen/</loc>
+        <loc>http://www.randori.be/c/b/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/b/coaching_habit.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/more/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/frontpage.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/news/driedaagse1.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/lao_tze.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/a/evenwicht.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/wat_is_een_pelgrim.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/tag/coaching/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/pelgrim.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/het_plan.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/a/eerlijk.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/tag/filosfie/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/q/iedereen_wandelt_zijn_eigen_camino.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/wie.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/a/fisterra.html</loc>
+        <loc>http://www.randori.be/c/a/blue_monday.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -326,27 +241,127 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/randori.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/preview/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/winterstress.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/aanbod/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/more/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/just_keep_walking.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/foute_weg.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/preview/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/news/tweedaagse1.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/juiste_richting.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/frontpage.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/camino_geeft_je_antwoorden.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/iedereen_wandelt_zijn_eigen_camino.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/uit_de_kast.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/tag/quote/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/people.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/wat_is_een_pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/q/de_echte_camino.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/b/sex_at_dawn.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/more/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/news/driedaagse1.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/wat_is_een_pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/contact.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/b/coaching_habit.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/randori.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
