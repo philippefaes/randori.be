@@ -20,6 +20,6 @@ thumbnail: /images/boekenrek.jpg
 
 * Memories, Dreams and Reflections by Carl Jung
 
-## Boeken die de moeite zijn om te lezen:
+* 
 
 -->
