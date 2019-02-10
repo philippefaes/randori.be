@@ -16,11 +16,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/tag/entrepreneurship/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/c/q/we_are_all_pilgrims.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -66,7 +61,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/tag/filosfie/</loc>
+        <loc>http://www.randori.be/tag/filosofie/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -102,11 +97,6 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/a/kilt.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/tag/book/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -207,6 +197,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/a/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/tag/boek/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
