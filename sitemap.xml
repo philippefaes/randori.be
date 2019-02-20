@@ -6,6 +6,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/a/bank_holiday.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/c/q/bring_your_whole_self.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -102,6 +107,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/a/kilt.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/tag/book/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -206,6 +216,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/a/zesde_zintuig.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/news/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -216,7 +231,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/tag/boek/</loc>
+        <loc>http://www.randori.be/c/a/waarom_coachen.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -227,6 +242,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/a/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/c/a/free_trial_month.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
