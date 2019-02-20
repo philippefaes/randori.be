@@ -3,7 +3,7 @@ title: Waarom heb ik een coach nodig?
 layout: page
 pager: True
 comments: true
-date: 2019-02-20
+date: 2019-02-21
 author: Philippe Faes
 advert: true
 thumbnail: /images/schaduwen.jpg
