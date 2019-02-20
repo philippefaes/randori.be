@@ -1,6 +1,6 @@
 ---
 title: Veranderen door te Wandelen
-tagline: "&nbsp;"
+tagline: philippe.faes.coach
 layout: index_tn
 content:
     - wat
