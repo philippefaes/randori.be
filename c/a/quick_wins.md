@@ -4,6 +4,7 @@ layout: page
 pager: True
 comments: true
 date: 2019-02-05
+author: Philippe Faes
 thumbnail: /images/cash.jpg
 ---
 

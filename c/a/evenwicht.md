@@ -4,6 +4,7 @@ layout: page
 pager: true
 comments: true
 date: 2018-11-26
+author: Philippe Faes
 thumbnail: /images/work-life.jpg
 teaser: Bij "evenwicht", en zeker denken mensen gemakkelijk aan work-life balance. Dat is natuurlijk een valse tegenstelling. Je werk...
 ---

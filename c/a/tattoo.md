@@ -4,6 +4,7 @@ layout: page
 pager: True
 comments: true
 date: 2018-11-12
+author: Philippe Faes
 thumbnail: /images/tattoos.jpg
 ---
 

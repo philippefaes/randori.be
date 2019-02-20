@@ -8,7 +8,7 @@ thumbnail: /images/siddartha.jpg
 date: 2018-10-04
 tags:
     - book
-    - filosfie
+    - filosofie
 ---
 
 ![Siddhartha, Herman Hesse](/images/siddartha.jpg "Siddhartha, Herman Hesse")

@@ -4,10 +4,12 @@ layout: page
 pager: True
 comments: true
 date: 2999-12-31
+author: Philippe Faes
 thumbnail: /images/drizzle.jpg
+advert: true
 language: en
 tags:
-    - entrepreneurship
+    - ondernemen
 ---
 
 ![People dice](/images/drizzle.jpg)

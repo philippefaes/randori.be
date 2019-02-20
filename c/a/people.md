@@ -4,10 +4,11 @@ layout: page
 pager: True
 comments: true
 date: 2018-11-03
+author: Philippe Faes
 thumbnail: /images/people_dice.jpg
 language: en
 tags:
-    - entrepreneurship
+    - ondernemen
 ---
 
 ![People dice](/images/people_dice.jpg)

@@ -4,6 +4,7 @@ layout: page
 pager: True
 comments: true
 date: 2018-11-19
+author: Philippe Faes
 thumbnail: /images/backpack32.jpg
 tags:
     - camino

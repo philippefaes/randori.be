@@ -4,6 +4,7 @@ layout: page
 pager: True
 comments: true
 date: 2019-01-02
+author: Philippe Faes
 thumbnail: /images/flickr_3412836101.jpg
 teaser: "\"Mijn collega presteert niet meer goed. Kan jij hem niet weer oplappen zodat hij zijn targets haalt?\" Het korte antwoord is: ..."
 ---

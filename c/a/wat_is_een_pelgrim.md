@@ -4,6 +4,7 @@ layout: page
 pager: True
 comments: True
 date: 2018-09-29
+author: Philippe Faes
 pager: True
 thumbnail: /images/wandelen_langs_afbeelding_santiago.jpg
 tags:

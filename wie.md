@@ -1,6 +1,6 @@
 ---
-title: Wie is Philippe?
-tagline: "&nbsp;"
+title: Wie ben ik?
+tagline: "— Philippe Faes —"
 menutitle: Wie
 layout: index
 comments: False

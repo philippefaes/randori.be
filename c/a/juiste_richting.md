@@ -4,6 +4,7 @@ layout: page
 pager: True
 comments: true
 date: 2018-10-03
+author: Philippe Faes
 thumbnail: /images/flecha_variante_s.jpg
 tags:
     - camino

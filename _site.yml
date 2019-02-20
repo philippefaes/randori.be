@@ -6,12 +6,13 @@ navbar_inverse: false
 bootstrap: 3.3.4
 navbar_right_items: 1
 google_analytics: UA-89086991-1
+linkedin_analytics: UA-89086991-1
 cname: www.randori.be
 copyright_years: 2017-2018
 social:
     linkedin:  https://be.linkedin.com/in/philippefaes
     facebook:  https://www.facebook.com/Randori-253927758658069
-    instagram: https://www.instagram.com/philipperandori/
+    instagram: https://www.instagram.com/philippecoaching/
     twitter:   https://www.twitter.com/shadowofleaves/
 reflinks:
     aboutme:

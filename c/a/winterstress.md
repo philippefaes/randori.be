@@ -4,6 +4,7 @@ layout: page
 pager: True
 comments: true
 date: 2018-12-17
+author: Philippe Faes
 thumbnail: /images/kerstmuts.jpg
 language: nl
 ---
