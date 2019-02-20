@@ -8,7 +8,7 @@ author: Philippe Faes
 advert: True
 thumbnail: /images/wandelen_fr.jpg
 language: nl
-teaser: > Beide voeten stevig op de grond en neus in de lucht
+teaser: Beide voeten stevig op de grond en neus in de lucht
 tags:
     - wandelen
 ---
