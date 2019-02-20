@@ -10,4 +10,5 @@ serve:
 	python -m urubu serve
 
 publish:
+	git push
 	./_publish.sh
