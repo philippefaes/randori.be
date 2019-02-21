@@ -7,6 +7,7 @@ date: 2019-02-19
 author: Philippe Faes
 advert: True
 thumbnail: /images/wandelen_fr.jpg
+advert: true
 language: nl
 teaser: Beide voeten stevig op de grond en neus in de lucht
 tags:

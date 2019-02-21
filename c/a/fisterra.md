@@ -6,6 +6,7 @@ comments: true
 date: 2018-10-15
 author: Philippe Faes
 thumbnail: /images/fisterra.jpg
+advert: true
 ---
 
 ![Pijl naar Fisterra](/images/fisterra.jpg "De laatste kilometers voor het Einde van de Wereld")

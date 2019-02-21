@@ -6,6 +6,7 @@ comments: true
 date: 2019-02-10
 author: Philippe Faes
 thumbnail: /images/kilt_h.jpg
+advert: true
 language: en
 tags:
     - coaching

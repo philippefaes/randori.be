@@ -6,6 +6,7 @@ comments: true
 date: 2018-10-13
 author: Philippe Faes
 thumbnail: /images/rua_peregrino.jpg
+advert: true
 ---
 
 ![Rúa Peregrino](/images/rua_peregrino.jpg "Philippe staat in de Rúa Peregrina, de dag voor hij in Santiago aankomt.")

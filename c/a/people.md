@@ -6,6 +6,7 @@ comments: true
 date: 2018-11-03
 author: Philippe Faes
 thumbnail: /images/people_dice.jpg
+advert: true
 language: en
 tags:
     - ondernemen

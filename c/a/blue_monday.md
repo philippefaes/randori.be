@@ -6,6 +6,7 @@ comments: true
 date: 2019-01-21
 author: Philippe Faes
 thumbnail: /images/blue_monday.jpg
+advert: true
 ---
 
 ![Blue Monday](/images/blue_monday.jpg)

@@ -6,6 +6,7 @@ comments: true
 date: 2018-11-19
 author: Philippe Faes
 thumbnail: /images/backpack32.jpg
+advert: true
 tags:
     - camino
     - minimalisme

@@ -6,6 +6,7 @@ comments: true
 date: 2018-10-29
 author: Philippe Faes
 thumbnail: /images/lookingup.jpg
+advert: true
 ---
 
 ![Eerlijk zijn](/images/lookingup.jpg)

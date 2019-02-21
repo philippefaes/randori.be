@@ -6,6 +6,7 @@ comments: true
 date: 2018-09-01
 author: Philippe Faes
 thumbnail: /images/schatkist.jpg
+advert: true
 ---
 
 ## .. en waarom "Randori"?

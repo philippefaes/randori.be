@@ -7,6 +7,7 @@ date: 2019-02-21
 author: Philippe Faes
 advert: true
 thumbnail: /images/schaduwen.jpg
+advert: true
 teaser: "Waarom heb ik een coach nodig? Hoe gaat dat dan? En vooral: is dat niet soft?"
 ---
 

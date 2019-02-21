@@ -7,6 +7,7 @@ date: 2018-09-26
 author: Philippe Faes
 pager: True
 thumbnail: /images/full_backpack.jpg
+advert: true
 tags:
     - camino
 ---
