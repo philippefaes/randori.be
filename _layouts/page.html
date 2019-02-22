@@ -41,11 +41,7 @@
         <div role="main">
         {{this.body}}
         </div>
-        <div style="padding-top:30px">	
-          {% if this.comments %}
-            {% include 'comments.html' %}
-          {% endif %}
-        </div>
+        
       </div>
       {% endblock %}
     </div>
@@ -65,7 +61,7 @@
     {% endif %}
     {% if this.advert %}
     <div class="col-lg-3" role="complementary">
-      <nav class="hidden-print hidden-xs hidden-sm">
+      <nav class="hidden-print ">
         <div class="sidebar" data-spy="affix" data-offset-top="80" data-offset-bottom="60">
           <div class="well">
             {% include 'advert.html' %}
@@ -76,6 +72,12 @@
     {% endif %}
     {% endblock %}
 
+  </div>
+
+  <div style="padding-top:30px">	
+    {% if this.comments %}
+      {% include 'comments.html' %}
+    {% endif %}
   </div>
 
   {% include 'pager.html' %}
