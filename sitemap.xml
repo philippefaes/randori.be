@@ -6,11 +6,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/c/a/bank_holiday.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/c/q/bring_your_whole_self.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -136,6 +131,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/a/ingenieur.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/wie.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -247,11 +247,6 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/a/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/c/a/free_trial_month.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
