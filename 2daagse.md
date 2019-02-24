@@ -15,12 +15,10 @@ Door stil te zijn en ook door te praten.
 Door twee dagen lang **onbereikbaar** te zijn. 
 Door twee dagen **zonder pintjes en wijntjes** te leven, zodat we beter alle veranderingen kunnen aanvoelen en doormaken.
 
-## Prijs
-De introductieprijs voor deze driedaagse Veranderen door te Wandelen is €860.
-
 ## Wanneer
 
-* Woensdag 13 maart 2019 (avond) tot vrijdag 15 maart 2019 (namiddag).
+* Woensdag 13 maart 2019 (avond) tot vrijdag 15 maart 2019 (namiddag) — **laatste plaatsen; wees snel!**
+* Vrijdag 13 mei 2019 (avond) tot zondag 15 mei 2019 (namiddag)
 
 ## Waar
 Geheime locatie in de Ardennen.
@@ -44,6 +42,9 @@ Geheime locatie in de Ardennen.
     * Lunch en afscheid
 * **Achteraf** 
     * In de periode na de tweedaagse blijf ik beschikbaar om steun te geven tijdens je veranderingen.
+
+## Prijs
+De introductieprijs voor deze driedaagse Veranderen door te Wandelen is €860.
 
 ## Interesse of meer info?
 
