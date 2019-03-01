@@ -1,11 +1,14 @@
 ---
-title: Tweedaagse
+title: Tweedaagse Veranderen om te Wandelen
 layout: page
 comments: False
 pager: False
 ---
 
-### → [Schrijf je in.](https://docs.google.com/forms/d/e/1FAIpQLSd_ZKM1U1rxzfm2tq3u1VpVV2sxvJWcm-wky-bCDil-Hj0XTA/viewform)
+### → [Schrijf je in.](/h/form_2daagse.html)
+
+
+![Wandelen](/images/schaduwen.jpg)
 
 ## Hoe
 In absoluut **vertrouwen**, en met een erg kleine groep. 
@@ -23,7 +26,6 @@ Door twee dagen **zonder pintjes en wijntjes** te leven, zodat we beter alle ver
 ## Waar
 Geheime locatie in de Ardennen.
 
-![Kampvuur](/images/vuur.jpg)
 ## Programma
 
 * **Vooraf** 
@@ -35,7 +37,7 @@ Geheime locatie in de Ardennen.
     * Ontbijt en ochtendoefening 
     * Wandelen en Veranderen (24 km)
     * Samen koken en avondmaal
-    * Kampvuur
+    * Kampvuur ![Kampvuur](/images/vuur.jpg)
 * **Dag 3**
     * Ontbijt en ochtendoefening
     * Wandelen en Veranderen (8 km)
@@ -43,11 +45,6 @@ Geheime locatie in de Ardennen.
 * **Achteraf** 
     * In de periode na de tweedaagse blijf ik beschikbaar om steun te geven tijdens je veranderingen.
 
-## Prijs
-De introductieprijs voor deze driedaagse Veranderen door te Wandelen is €860.
-
-## Interesse of meer info?
-
-### → [Schrijf je in.](https://docs.google.com/forms/d/e/1FAIpQLSd_ZKM1U1rxzfm2tq3u1VpVV2sxvJWcm-wky-bCDil-Hj0XTA/viewform)
+## → [Meer info en Inschrijven](/h/form_2daagse.html)
 
 Als de bovenstaande data niet passen, kan je me [een mailtje sturen](mailto:philippe@randori.be), en dan hou ik je op de hoogte van komende driedaagses.
