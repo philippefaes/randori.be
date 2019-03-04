@@ -9,6 +9,9 @@ advert: true
 thumbnail: /images/schaduwen.jpg
 advert: true
 teaser: "Waarom heb ik een coach nodig? Hoe gaat dat dan? En vooral: is dat niet soft?"
+tags: 
+    - coaching
+    - wandelen
 ---
 
 

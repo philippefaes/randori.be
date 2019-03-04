@@ -12,6 +12,7 @@ language: nl
 teaser: Beide voeten stevig op de grond en neus in de lucht
 tags:
     - wandelen
+    - coaching
 ---
 
 ![Wandelen met Philippe](/images/wandelen_fr.jpg)
