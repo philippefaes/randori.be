@@ -1,5 +1,5 @@
 ---
-title: Tweedaagse Veranderen om te Wandelen
+title: Tweedaagse Veranderen door te Wandelen
 layout: page
 comments: False
 pager: False
