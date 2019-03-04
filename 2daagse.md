@@ -45,6 +45,15 @@ Geheime locatie in de Ardennen.
 * **Achteraf** 
     * In de periode na de tweedaagse blijf ik beschikbaar om steun te geven tijdens je veranderingen.
 
+## Inbegrepen
+
+* **Privé coaching** (Intakegesprek en follow-up gesprek, t.w.v. €360)
+* **Overnachtingen** (twee nachten)
+* **Maaltijden** (2x ontbijt, lunch, avondmaal)
+* **Treinbiljetten** (van jouw station naar keuze in België naar het startpunt, en van eindpunt weer naar jouw station van keuze)
+* **Professionele coaching** tijdens de tweedaagse, in een kleine groep (max 4 personen)
+
+
 ## → [Meer info en Inschrijven](/h/form_2daagse.html)
 
 Als de bovenstaande data niet passen, kan je me [een mailtje sturen](mailto:philippe@randori.be), en dan hou ik je op de hoogte van komende driedaagses.

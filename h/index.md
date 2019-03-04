@@ -1,7 +1,8 @@
 ---
 title: h
 title: _
-layout: index
+layout: redirect
+target: /
 order: title
 reverse: True
 hidden: True
