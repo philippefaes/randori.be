@@ -20,8 +20,8 @@ Door twee dagen **zonder pintjes en wijntjes** te leven, zodat we beter alle ver
 
 ## Wanneer
 
-* Woensdag 13 maart 2019 (avond) tot vrijdag 15 maart 2019 (namiddag) — **laatste plaatsen; wees snel!**
-* Vrijdag 13 mei 2019 (avond) tot zondag 15 mei 2019 (namiddag)
+* <s>Woensdag 13 maart 2019 (avond) tot vrijdag 15 maart 2019 (namiddag)</s>
+* Vrijdag 10 mei 2019 (avond) tot zondag 12 mei 2019 (namiddag)
 
 ## Waar
 Geheime locatie in de Ardennen.
@@ -52,7 +52,6 @@ Geheime locatie in de Ardennen.
 * **Maaltijden** (2x ontbijt, lunch, avondmaal)
 * **Treinbiljetten** (van jouw station naar keuze in België naar het startpunt, en van eindpunt weer naar jouw station van keuze)
 * **Professionele coaching** tijdens de tweedaagse, in een kleine groep (max 4 personen)
-
 
 ## → [Meer info en Inschrijven](/h/form_2daagse.html)
 
