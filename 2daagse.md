@@ -10,6 +10,12 @@ pager: False
 
 ![Wandelen](/images/schaduwen.jpg)
 
+## Wat
+
+**Op zoek naar focus, daadkracht?**
+
+Ga mee met mij **twee dagen** weg van je werk, je verplichtingen, je gezin. Twee dagen om **energie** op te laden, je **keuzes** en uitdagingen vanop een afstand te bekijken, en weer te je **focus** te kiezen. Zo kan je daarna weer met **volle energie** en doelgericht aan de slag.
+
 ## Hoe
 In absoluut **vertrouwen**, en met een erg kleine groep. 
 Door te wandelen, niet in een lus of in cirkeltje, maar vooruit. 
@@ -21,7 +27,7 @@ Door twee dagen **zonder pintjes en wijntjes** te leven, zodat we beter alle ver
 ## Wanneer
 
 * <s>Woensdag 13 maart 2019 (avond) tot vrijdag 15 maart 2019 (namiddag)</s>
-* Vrijdag 10 mei 2019 (avond) tot zondag 12 mei 2019 (namiddag)
+* [Vrijdag 10 mei 2019 (avond) tot zondag 12 mei 2019 (namiddag)](/h/form_2daagse.html)
 
 ## Waar
 Geheime locatie in de Ardennen.
@@ -31,16 +37,16 @@ Geheime locatie in de Ardennen.
 * **Vooraf** 
     * Voor wie nog niet met mij gewandeld heeft plan ik in de weken voor deze driedaagse een wandeling om persoonlijk kennis te maken.
 * **Dag 1**
-    * Aankomst rond 20h  
+    * Aankomst rond 19:00  
     * Kennismaking: waarom ben ik hier / wat wil ik veranderen?
 * **Dag 2**
     * Ontbijt en ochtendoefening 
-    * Wandelen en Veranderen (24 km)
+    * Wandelen en Veranderen (22 km)
     * Samen koken en avondmaal
     * Kampvuur ![Kampvuur](/images/vuur.jpg)
 * **Dag 3**
     * Ontbijt en ochtendoefening
-    * Wandelen en Veranderen (8 km)
+    * Wandelen en Veranderen (5 km)
     * Lunch en afscheid
 * **Achteraf** 
     * In de periode na de tweedaagse blijf ik beschikbaar om steun te geven tijdens je veranderingen.
