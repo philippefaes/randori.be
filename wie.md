@@ -38,7 +38,7 @@ In 2017 heb ik in vijf weken [900 kilometer gewandeld in Spanje](/c/pelgrim.html
 
 Deze [pelgrimstocht](/c/wat_is_een_pelgrim.html) heeft mij weer met mijn twee voeten stevig op de grond gezet, en heeft mij geholpen om een paar moeilijke knopen door te hakken.
 
-Sindsdien wandel ik regelmatig en veel. En noem ik mezelf, los van elke religie, een (pelgrim)[/c/a/wat_is_een_pelgrim]. Van daaruit help ik graag andere mensen, als coach, om *stappen te zetten*. Om te Veranderen door te Wandelen. 
+Sindsdien wandel ik regelmatig en veel. En noem ik mezelf, los van elke religie, een [pelgrim](/c/a/wat_is_een_pelgrim.html). Van daaruit help ik graag andere mensen, als coach, om *stappen te zetten*. Om te Veranderen door te Wandelen. 
 
 ## Coach
 
