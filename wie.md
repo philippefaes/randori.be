@@ -17,8 +17,6 @@ Entrepreneur, coach en pelgrim. Collects chaos.
 Helps people take steps to make changes.
 -->
 
-[Philippe in een pak en kilt](/images/double_body_prop.jpg)
-
 <div class="hover_image">
 	<img src="/images/suit_prop.jpg" class="img-bottom" style="float:right" alt="Philippe in een pak" >
 	<img src="/images/double_body_prop.jpg" class="img-top" style="float:right">
