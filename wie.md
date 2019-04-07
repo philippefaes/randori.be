@@ -4,7 +4,7 @@ tagline: "— Philippe Faes —"
 menutitle: Wie
 layout: index
 comments: False
-thumbnail: /images/twoface.jpg
+thumbnail: /images/double_face_lijn.jpg
 teaser: Ondernemer en ingenieur — coach en pelgrim  
 ---
 
@@ -17,7 +17,13 @@ Entrepreneur, coach en pelgrim. Collects chaos.
 Helps people take steps to make changes.
 -->
 
-![Philippe in een pak](/images/suit_bw.jpg)
+[Philippe in een pak en kilt](/images/double_body_prop.jpg)
+
+<div class="hover_image">
+	<img src="/images/suit_prop.jpg" class="img-bottom" style="float:right" alt="Philippe in een pak" >
+	<img src="/images/double_body_prop.jpg" class="img-top" style="float:right">
+</div>
+
 # Wie is de man in het pak?
 
 ## Ingenieur en Ondernemer
@@ -29,16 +35,25 @@ In 2017 heb ik de leiding van Sigasi overgedragen aan een nieuwe algemeen direct
 
 <!-- TODO endorsements -->
 
-![Philippe met kilt](/images/kilt_in_sneeuw_bw.jpg)
+
+
+<div class="hover_image">
+	<img src="/images/kilt_prop.jpg" class="img-bottom" style="float:left" alt="Philippe in een kilt" >
+	<img src="/images/double_body_prop.jpg" style="float:left" class="img-top" >
+</div>
+
 # Wie is de man in de kilt?
 
 ## Pelgrim
 
 In 2017 heb ik in vijf weken [900 kilometer gewandeld in Spanje](/c/pelgrim.html). Ik ben vertrokken in Irun (Spaans-Franse grens aan de Golf van Biscaje) en dan langs de Spaanse noordkust tot aan Santiago de Compostela en Fisterra.
 
+
 Deze [pelgrimstocht](/c/wat_is_een_pelgrim.html) heeft mij weer met mijn twee voeten stevig op de grond gezet, en heeft mij geholpen om een paar moeilijke knopen door te hakken.
 
 Sindsdien wandel ik regelmatig en veel. En noem ik mezelf, los van elke religie, een [pelgrim](/c/a/wat_is_een_pelgrim.html). Van daaruit help ik graag andere mensen, als coach, om *stappen te zetten*. Om te Veranderen door te Wandelen. 
+
+Lees ook: [/c/a/kilt]
 
 ## Coach
 
@@ -62,3 +77,24 @@ Naast mijn formele opleiding als burgerlijk ingenieur, heb ik verschillende ople
 * Uitwisselingsprogramma, 1996 — 1997, Madison High School, Portland, Oregon, USA
 * Attest jeugdanimator, attest hoofdanimator, 1994 — 1995
 -->
+
+
+<style type="text/css">
+    .hover_image {
+        style=position:absolute;
+		right:0;
+		top:0;
+    }
+    .hover_image .img-top {
+        display: none;
+    }
+    .hover_image:hover .img-top {
+        display: inline;
+    }
+    .hover_image .img-bottom {
+        display: inline;
+    }
+    .hover_image:hover .img-bottom {
+        display: none;
+    }
+</style>

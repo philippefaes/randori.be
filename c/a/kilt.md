@@ -1,5 +1,5 @@
 ---
-title: Kilted Coach. But why?
+title: Waarom de kilt?
 layout: page
 pager: True
 comments: true
@@ -13,7 +13,7 @@ tags:
     - kilt
 ---
 
-Ik ben Philippe, de *kilted [coach](/wat.html)*, de *[kilted pilgrim](https://www.google.com/search?q=%23kiltedpilgrim)*. Maar waarom?
+Ik ben Philippe, de *[kilted coach](/wat.html)*, de *[kilted pilgrim](https://www.google.com/search?q=%23kiltedpilgrim)*. Maar waarom?
 
 > I'm not trying to pick you up, but uh... what's with the kilt? — some woman at the airport
 
