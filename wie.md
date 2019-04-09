@@ -8,8 +8,6 @@ thumbnail: /images/double_face_lijn.jpg
 teaser: Ondernemer en ingenieur — coach en pelgrim  
 ---
 
-![Philippe Faes ](/images/double_face_lijn.jpg)
-
 > Ondernemer en ingenieur, coach en pelgrim. <br/> 
 > Verzamelt chaos. <br/>
 > Helpt mensen om te Veranderen door te Wandelen.
