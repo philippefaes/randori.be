@@ -1,6 +1,6 @@
 ---
 title: Vliegende start op maandag
-layout: page
+layout: index
 comments: False
 pager: False
 ---
