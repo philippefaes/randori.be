@@ -46,6 +46,7 @@ Hier is mijn geheime superkracht: ik stel vragen tot ik een antwoord krijg. Ik l
 
 ## Hoe lang?
 
+* **Ochtend**: een uurtje voordat je naar je werk vertrekt. — [lees meer](/ochtendmeeting.html)
 * **Uren**: anderhalf uur wandelen in de natuur. — [maak een afspraak; de eerste proefwandeling is kosteloos](/wandel_met_mij.html)
 * **Dagen**: een tweedaagse in de Ardennen. — [lees meer](/2daagse.html)
 * **Weken**: twee weken weg van de dagelijkse routine, in Noord-Spanje. — [hou me op de hoogte](mailto:philippe@randori.be?subject=Hou+me+op+de+hoogte+van+veranderen+door+te+wandelen+in+Spanje)
