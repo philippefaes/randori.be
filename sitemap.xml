@@ -291,6 +291,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/c/b/doenwiejebent.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/c/q/just_keep_walking.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
