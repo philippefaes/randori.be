@@ -24,6 +24,8 @@ Helps people take steps to make changes.
 
 # Wie is de man in het pak?
 
+<p style="text-align: center;font-weight: bold;">Nuchter, ervaren, daadkrachtig.</p>
+
 ## Ingenieur en Ondernemer
 
 Ik heb bijna tien jaar lang mijn eigen bedrijf, [Sigasi](http://www.sigasi.com), geleid. Als mede-oprichter heb ik ervaring met alle aspecten van engineering en bedrijfsvoering. Eerst met mijn ingenieurs: programmeren, software-architectuur, kwaliteitscontrole, testing, UI design en nog zoveel meer. Daarna met de pet van manager en ondernemer: sales, marketing, productontwikkeling, strategische samenwerkingen opzetten, recrutering, administratie, raden van bestuur en algemene vergaderingen. Ik heb in 2010 een investeringsronde van ongeveer een half miljoen euro doorgevoerd, en heb verschillende subsidiedossiers geschreven en goedgekeurd gekregen.
@@ -41,6 +43,8 @@ In 2017 heb ik de leiding van Sigasi overgedragen aan een nieuwe algemeen direct
 </div>
 
 # Wie is de man in de kilt?
+
+<p style="text-align: center;font-weight: bold;">Empathisch, waarden-gedreven, voeten op de grond.</p>
 
 ## Pelgrim
 
