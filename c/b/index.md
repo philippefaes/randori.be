@@ -12,7 +12,7 @@ thumbnail: /images/boekenrek.jpg
 * King, Warrior, Magician, Lover, Robert Moore
 * Finding Meaning in the Second Half of Life, James Hollis
 * De Alchemist, Paolo Coelho 
-* The course of love / De weg van de liefde – Alain de Botton
+* Wat je zegt, ben je zelf; Patricia van Lingen
 
 ## Boeken
 

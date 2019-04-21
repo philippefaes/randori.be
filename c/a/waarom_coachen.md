@@ -29,7 +29,7 @@ Als volgend jaar er voor jou hetzelfde uitziet als vorig jaar heb je geen coach 
 
 Ik help je **Veranderen door te Wandelen**. Elke (positieve) verandering komt door zelf **verantwoordelijk te nemen** voor je leven. Ik help je om die verantwoordelijkheid (meer) te nemen. 
 
-We zoeken samen welke verandering je écht wilt maken in je leven en we definiëren de eerstevolgende stappen die nodig zijn om die verandering waar te maken. 
+We zoeken samen welke verandering je écht wilt maken in je leven en we definiëren de eerstvolgende stappen die nodig zijn om die verandering waar te maken. 
 
 Net zoals een voetbalcoach niet mee tegen de bal komt trappen, blijf ik ook langs de zijlijn staan. Jij blijft verantwoordelijk voor je leven, je vorderingen, je veranderingen. Je kan je ideeën bij mij komen toetsen en je strategie uitbouwen.
 
@@ -45,15 +45,15 @@ Wanneer we conclusies en volgende stappen definiëren, maak je geen beloftes aan
 
 Ik ben geen therapeut en ook geen psycholoog. Ik ben een ondernemer, ingenieur en een coach.
 
-Een therapeut helpt je als er "iets mis is". Een coach gaat ervan uit dat je normaal funcioneert en dat je **nóg beter wilt functioneren**. En therapeut brengt je van 4/10 naar 6/10, een coach brengt je van 6 of 7/10 naar 9 of 10/10 .
+Een therapeut helpt je als er "iets mis is". Een coach gaat ervan uit dat je normaal functioneert en dat je **nóg beter wilt functioneren**. En therapeut brengt je van 4/10 naar 6/10, een coach brengt je van 6 of 7/10 naar 9 of 10/10 .
 
 ## Is dat niet alleen voor mensen met problemen?
 
 Nee. Wel voor mensen met groeimogelijkheden. 
 
-Echte high-performers hebben vaak een coach (of zelfs meerdere). Executives of bedrijfsleiders hebben immers vaak een eenzaam leven. Hoewel ze veel mensen om zich heen hebben, begrijpen weinigen rondom hen wat hen bezig houdt. Degenen die hen wel begrijpen hebben vaak ook veel te verliezen of te winnen bij de keuzes die de high-performes maken, en zijn dus geen goede *sparring partner*. Je levenspartner of je raad van bestuur zullen misschien niet zo goed reageren als je hen een radicaal idee voorlegt voordat dat idee voldoende gerijpt is.
+Echte high-performers hebben vaak een coach (of zelfs meerdere). Executives of bedrijfsleiders hebben immers vaak een eenzaam leven. Hoewel ze veel mensen om zich heen hebben, begrijpen weinigen rondom hen wat hen bezig houdt. Degenen die hen wel begrijpen hebben vaak ook veel te verliezen of te winnen bij de keuzes die de high-performers maken, en zijn dus geen goede *sparring partner*. Je levenspartner of je raad van bestuur zullen misschien niet zo goed reageren als je hen een radicaal idee voorlegt voordat dat idee voldoende gerijpt is.
 
-Je kan bij je coach regelmatig nieuwe ideeën in vertrouwen aftoetsen, je kantoordynamiek onderzoeken of de gedragspatronen van mensen rondom jou en jezelf bespreken. Op die manier wordt je nog daadkrachtiger en nog meer gefocust op wat echt belangrijk is.
+Je kan bij je coach regelmatig nieuwe ideeën in vertrouwen toetsen, je kantoordynamiek onderzoeken of de gedragspatronen van mensen rondom jou en jezelf bespreken. Op die manier wordt je nog daadkrachtiger en nog meer gefocust op wat echt belangrijk is.
 
 Wie denkt dat hij *geen* groeimogelijkheden meer heeft, zal geen baat hebben bij coaching.  
 
@@ -61,7 +61,7 @@ Wie denkt dat hij *geen* groeimogelijkheden meer heeft, zal geen baat hebben bij
 
 Nee. Ik ben ingenieur en ik sta met twee voeten stevig op de grond. Het is niet mijn taak om je goed te doen voelen. Wel om je vooruit te helpen.
 
-Ik spreek je tegen wanneer je jezelf voorliegt of in cirkeltjes denkt. Ik zal je ontslaan als klant wanneer ik merk dat je enkel komt om te klagen en geen verantwoordelijkheid wilt nemen voor je eigen leven. Ik zeg vaak dingen die klanten niet wilden horen. Met respect voor de persoon en tegelijk medogenloos voor vastgeroeste ideeën 
+Ik spreek je tegen wanneer je jezelf voorliegt of in cirkeltjes denkt. Ik zal je ontslaan als klant wanneer ik merk dat je enkel komt om te klagen en geen verantwoordelijkheid wilt nemen voor je eigen leven. Ik zeg vaak dingen die klanten niet wilden horen. Met respect voor de persoon en tegelijk meedogenloos voor vastgeroeste ideeën 
 
 
 ## Hoe beginnen we eraan?

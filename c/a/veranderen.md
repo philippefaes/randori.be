@@ -23,7 +23,7 @@ advert: true
 
 Rond welke verandering kunnen we samen werken? Verandering in je omgeving, in je routine, in je werk, in je omzet, in je gewoonten, je patronen van denken en doen, of zelfs een verandering in jezelf, in je missie. 
 
-Ik kan *niet* werken aan een verandering in een andere; een veranderining in je partner, je collega, of gedrag van de buurman. Ik kan wel werken aan *hoe jij omgaat* met je partner, met je collega of met het gedrag van je buurman.
+Ik kan *niet* werken aan een verandering in een andere; een verandering in je partner, je collega, of gedrag van de buurman. Ik kan wel werken aan *hoe jij omgaat* met je partner, met je collega of met het gedrag van je buurman.
 
 ### Waarom wandelen?
 

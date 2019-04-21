@@ -26,7 +26,7 @@ Na tien minuten vraagt iemand of we nog pijlen hebben gezien. Nee, het is al een
 > [/c/q/foute_weg]
 
 ![Gele Pijlen](/images/flecha.jpg "Een geverfde wegwijzer op de Camino")
-Soms zijn de pijlen naar Santiago erg duidelijk. Soms staan er zelfs stenen paaltjes of grote plakaten met wegwijzers. Maar op andere plaatsen is het gewoon wat gele verf op de straat. Als je niet aandachtig bent kan je die wegwijzers gemakkelijk missen. Gelukkig, na een paar dagen ben je het zo gewend om op de gele pijlen te letten dat je het onbewust doet. Tot je afgeleid bent natuurlijk.
+Soms zijn de pijlen naar Santiago erg duidelijk. Soms staan er zelfs stenen paaltjes of grote borden met wegwijzers. Maar op andere plaatsen is het gewoon wat gele verf op de straat. Als je niet aandachtig bent kan je die wegwijzers gemakkelijk missen. Gelukkig, na een paar dagen ben je het zo gewend om op de gele pijlen te letten dat je het onbewust doet. Tot je afgeleid bent natuurlijk.
 
 
 Zo is het ook in het leven. Op sommige kruispunten is de  beslissing duidelijk en gemakkelijk. En soms ben je op automatische piloot gewoon de grote weg aan het volgen, en heb je de splitsing in de weg niet eens opgemerkt. Soms is de juiste weg een klein stijl bergpaadje. Niemand kan voor jou de weg wijzen. Iedereen moet zijn eigen wegwijzers volgen. En dat kan alleen als je goed oplet en elke splitsing in de weg bewust opmerkt en zoekt naar je gele pijlen.

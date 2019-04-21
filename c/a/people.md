@@ -16,7 +16,7 @@ tags:
 
 ## People, Planet, Profit, Price, Promotion, Product, Place and Performance
 
-Anybody who has taken a class on entrepreneurship has been confronted with the 3 P’s of sustainability, also known as the [Tripple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line): People, Planet, Profit. Likewise, anybody with any formal schooling in marketing has heard of the 4 P’s of the Marketing mix (Price, Place, Promotion, Product). Some authers later added People and Performance to that marketing list.
+Anybody who has taken a class on entrepreneurship has been confronted with the 3 P’s of sustainability, also known as the [Tripple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line): People, Planet, Profit. Likewise, anybody with any formal schooling in marketing has heard of the 4 P’s of the Marketing mix (Price, Place, Promotion, Product). Some autheurs later added People and Performance to that marketing list.
 
 The first set of P’s is interesting. The name itself (tripple bottom line) refers to a company’s “bottom line”, meaning the net earnings of a company. It seems that [John Elkington](https://en.wikipedia.org/wiki/John_Elkington_(business_author)) thought it was necessary to use accounting lingo in order to make people feel accountable for their community (People) and their environment (Planet).
 

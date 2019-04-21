@@ -59,7 +59,7 @@ Lees ook: [/c/a/kilt]
 
 ## Coach
 
-Al jaren adviseer en coach ik startende en groeiende ondernemers, zowel in peer-to-peer coaching als binnen startersorganisaties zoals [Starerslabo](https://www.starterslabo.be). Ik werk rond alle aspecten van het ondernemerschap, zowel de strategie als de praktische uitvoering. Daarnaast werk ik ook met de ondenemer als mens; de vragen rond de persoonlijke drive en missie. Immers, als de ondernemer en de onderneming niet dezelfde missie hebben zullen de onderneming of de ondernemer of beide daaronder lijden.
+Al jaren adviseer en coach ik startende en groeiende ondernemers, zowel in peer-to-peer coaching als binnen startersorganisaties zoals [Starerslabo](https://www.starterslabo.be). Ik werk rond alle aspecten van het ondernemerschap, zowel de strategie als de praktische uitvoering. Daarnaast werk ik ook met de ondernemer als mens; de vragen rond de persoonlijke drive en missie. Immers, als de ondernemer en de onderneming niet dezelfde missie hebben zullen de onderneming of de ondernemer of beide daaronder lijden.
 
 <br/><br/>
 Lees ook: [wat]

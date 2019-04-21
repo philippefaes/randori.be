@@ -19,10 +19,10 @@ In 2017 heb ik in vijf weken 900 kilometer gewandeld in Spanje. Ik ben vertrokke
 
 Eigenlijk had ik nog getwijfeld om een andere wandeltocht te doen. De [GR-5](https://en.wikipedia.org/wiki/GR_5) die van België naar het Franse Nice loopt, het [Pieterpad](http://www.pieterpad.nl/) of het [Gelukkigerwijspad](http://www.gelukkigerwijspad.nl/) in Nederland. Ik wilde vooral even echt weg van mijn dagelijkse routine en van alle mensen die ik kende. 
 
-De wandelweg naar Santiago de Compostela (*Camino de Santiago*) stond eigenlijk onderaan mijn lijstje. Er waren zo veel mensen die naar Compostela wandelen en ik wilde *per se* anders zijn. Uiteindelijk besefte ik dat *anders zijn* ook geen doel op zich is. Het grote voordeel van de Camino de Santiago is dat er voldoende en goedkope accomodatie is, zowel herbergen met slaapzalen als eetgelegenheden met "pelgrimsmaaltijden".
+De wandelweg naar Santiago de Compostela (*Camino de Santiago*) stond eigenlijk onderaan mijn lijstje. Er waren zo veel mensen die naar Compostela wandelen en ik wilde *per se* anders zijn. Uiteindelijk besefte ik dat *anders zijn* ook geen doel op zich is. Het grote voordeel van de Camino de Santiago is dat er voldoende en goedkope accommodatie is, zowel herbergen met slaapzalen als eetgelegenheden met "pelgrimsmaaltijden".
  
  
-Ik koos voor de noordelijke kustroute (*Camino del Norte*) omdat die iets ruwer is qua terrein, iets minder accomodatie heeft, en er minder mensen zijn dan op de populaire *Camino Frances*.
+Ik koos voor de noordelijke kustroute (*Camino del Norte*) omdat die iets ruwer is qua terrein, iets minder accommodatie heeft, en er minder mensen zijn dan op de populaire *Camino Frances*.
 
 ## Wandelaar of Pelgrim?
 

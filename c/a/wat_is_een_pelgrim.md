@@ -16,12 +16,12 @@ tags:
 Ik noem mezelf vaak "pelgrim" en ik besef goed dat een beladen en controversieel woord is. Eerder vertelde ik al [hoe ik pelgrim werd](/c/pelgrim), en dat ik zelf ook weerstand voelde bij het woord "pelgrim". 
 Nu wil het hebben over de wat dat woord betekent, en wat het betekent voor mij.
 
-# Tradionele betekenis
+# Traditionele betekenis
 
 Het woord pelgrim komt van het latijn, en betekent eigenlijk "vreemdeling". Volgens het [woordenboek](https://en.wiktionary.org/wiki/pilgrim) is een pelgrim *iemand die reist, vooral tijdens een tocht om plaatsen van religieuze betekenis te bezoeken.* 
 In het Nederlands is het een synoniem van "bedevaarder"; een biddende reiziger. Ik hou persoonlijk niet zo van de woorden "bedevaart" of "bedevaarder". Dus: pelgrim, pelgrimeren en pelgrimage.
 
-Als je de betekenis van "pelgrim" een beetje rekt, reist een pelgrim naar een plaats die een sprirituele betekenis heeft, of een bijzondere persoonlijke betekenis. 
+Als je de betekenis van "pelgrim" een beetje rekt, reist een pelgrim naar een plaats die een spirituele betekenis heeft, of een bijzondere persoonlijke betekenis. 
  
 Je zou kunnen zeggen dat een Australiër die het oorlogsgraf van zijn grootvader in Vlaanderen komt bezoeken ook een pelgrim is, op zoek naar zichzelf en zijn eigen oorsprong.
 

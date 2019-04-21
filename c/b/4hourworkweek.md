@@ -15,7 +15,7 @@ tags:
 
 Het boek "De werkweek van 4 uur" van Timothy Ferris is zeer sterk gehyped. Iedereen wil wel geld verdienen door maar een halve dag per week te werken. Hier enkele bedenkingen.
 
-Tim Ferris noemt zichzelf al lachend een internationale drug dealer, omdat hij een webshop heeft die voedingssuplementen verkoopt. Verder heeft hij ooit een wereldkampioenschap thai boxen gewonnen door eerst zichzelf te laten dehydrateren om in een lagere gewichtsklasse te geraken en daarna elk van zijn tegenstanders uit de ring te duwen. Sommige hoofdstukken uit het boek zijn geschreven door "virtuele assistenten", mensen in lageloonlanden die stukjes onderzoek voor hem doen en teksten schrijven.
+Tim Ferris noemt zichzelf al lachend een internationale drug dealer, omdat hij een webshop heeft die voedingssupplementen verkoopt. Verder heeft hij ooit een wereldkampioenschap thai boxen gewonnen door eerst zichzelf te laten dehydrateren om in een lagere gewichtsklasse te geraken en daarna elk van zijn tegenstanders uit de ring te duwen. Sommige hoofdstukken uit het boek zijn geschreven door "virtuele assistenten", mensen in lageloonlanden die stukjes onderzoek voor hem doen en teksten schrijven.
 
 Verder staan er een aantal nuttige technieken in die je kan gebruiken om je persoonlijk bedrijf op te starten, maar die technieken staan ook in een hele boel andere boeken.
 

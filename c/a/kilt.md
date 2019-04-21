@@ -24,7 +24,7 @@ Mensen vragen me vaak waarom ik een kilt draag. De wedervraag is dan waarom ik m
 
 1. Waarom niet?
 1. Omdat ik dat kan. 
-1. Omdat het me uit mijn comfortzone trekt. (Of althans: "trok". Ik ben er intussen wel aan gewend.)
+1. Omdat het me uit mijn comfort-zone trekt. (Of althans: "trok". Ik ben er intussen wel aan gewend.)
 1. Omdat het een gespreksstarter is.
 1. Omdat het extra mannelijk is.
 1. Omdat het gemakkelijk wandelt.
@@ -54,5 +54,5 @@ Mensen vragen me vaak waarom ik een kilt draag. De wedervraag is dan waarom ik m
 
 #### Zijn rokjes niet voor meisjes?
 
-* Nee. Net zo min als broeken voor jongens zijn. Enkel in de monderne westerse cultuur worden rokken en kleden als kleding voor vrouwen bestempeld. In vroegere tijden en in andere delen van de wereld dragen mannen kleden en rokken. Trouwens, heel Europa is destijds veroverd door [mannen in rokken](https://en.wikipedia.org/wiki/Military_of_ancient_Rome). 
+* Nee. Net zo min als broeken voor jongens zijn. Enkel in de moderne westerse cultuur worden rokken en kleden als kleding voor vrouwen bestempeld. In vroegere tijden en in andere delen van de wereld dragen mannen kleden en rokken. Trouwens, heel Europa is destijds veroverd door [mannen in rokken](https://en.wikipedia.org/wiki/Military_of_ancient_Rome). 
 <br/> Lees meer in de [Wikipedia](https://en.wikipedia.org/wiki/Men%27s_skirts).
