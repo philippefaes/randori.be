@@ -11,6 +11,7 @@ language: en
 tags:
     - coaching
     - kilt
+teaser: Ik ben Philippe, de kilted coach, de kilted pilgrim. Maar waarom? 
 ---
 
 Ik ben Philippe, de *[kilted coach](/wat.html)*, de *[kilted pilgrim](https://www.google.com/search?q=%23kiltedpilgrim)*. Maar waarom?

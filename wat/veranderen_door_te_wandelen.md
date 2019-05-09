@@ -63,9 +63,6 @@ Hier is mijn geheime superkracht: ik stel vragen tot ik een antwoord krijg. Ik l
   <br/><br/>
 * **Aangepast** aan wat jij nodig hebt, in de natuur of in jouw bedrijf. Af en toe wil zelfs wel eens gaan zitten. — [neem contact op](/contact.html)
 
-## Lees ook:
-
-* [Wie is Philippe](/wie.html)
 
 <!--
 * [Getuigenissen](/testimonials.html)

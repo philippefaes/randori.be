@@ -5,7 +5,7 @@ menutitle: Wat
 layout: redirect
 target: /wat/wandelen_om_te_veranderen.html
 content: 
-    - wandelen_om_te_veranderen
+    - veranderen_door_te_wandelen
     - ochtendmeeting
     - wandel_met_mij
     - 2daagse
