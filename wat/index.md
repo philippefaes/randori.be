@@ -3,7 +3,7 @@ title: Wat ik voor je kan doen?
 tagline: "Veranderen door te Wandelen"
 menutitle: Wat
 layout: redirect
-target: /wat/wandelen_om_te_veranderen.html
+target: /wat/veranderen_door_te_wandelen.html
 content: 
     - veranderen_door_te_wandelen
     - ochtendmeeting
