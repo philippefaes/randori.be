@@ -20,7 +20,7 @@ Ga mee met mij **twee dagen** weg van je werk, je verplichtingen, je gezin. Twee
 ## Hoe
 In absoluut **vertrouwen**, en met een erg kleine groep. 
 Door te wandelen, niet in een lus of in cirkeltje, maar vooruit. 
-Door van de ene overnachtingsplaats naar de volgendene te stappen. Door onze **eigen baggage te dragen**.
+Door van de ene overnachtingsplaats naar de volgende te stappen. Door onze **eigen baggage te dragen**.
 Door stil te zijn en ook door te praten. 
 Door twee dagen lang **onbereikbaar** te zijn. 
 Door twee dagen **zonder pintjes en wijntjes** te leven, zodat we beter alle veranderingen kunnen aanvoelen en doormaken.
