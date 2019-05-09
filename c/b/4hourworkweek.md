@@ -4,6 +4,7 @@ book-author: Timothy Ferris
 layout: page
 pager: True
 comments: true
+advert: true
 thumbnail: /images/4hour_workweek_cover.jpg
 date: 2018-12-07
 tags:

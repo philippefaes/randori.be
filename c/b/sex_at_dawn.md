@@ -4,6 +4,7 @@ book-author: Ryan and Jethá / Saxon
 layout: page
 pager: True
 comments: true
+advert: true
 thumbnail: /images/sexatdawn.jpg
 date: 2019-01-11
 tags:

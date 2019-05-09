@@ -4,6 +4,7 @@ book-author: Michael Bungay Stanier
 layout: page
 pager: True
 comments: true
+advert: true
 date: 2018-10-21
 thumbnail: /images/coaching_habit_selfie.jpg
 tags:

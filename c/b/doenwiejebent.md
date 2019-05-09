@@ -4,6 +4,7 @@ book-author: Charlotte De Mey
 layout: page
 pager: True
 comments: true
+advert: true
 thumbnail: /images/doen_wie_je_bent.jpg
 date: 2019-04-19
 tags:
@@ -35,3 +36,5 @@ Aanraders:
 * [Het Peer-to-peer traject "Doen wie je bent"](https://charlottedemey.be/peer-to-peer-traject-doen-wie-je-bent-self-marketing-voor-solo-ondernemers/) voor wie graag de hulp krijgt van Charlotte en van een groep gelijkgestemde zielen
 
 Misschien brengt dit ons dichter bij een wereld met meer mensen die echt kunnen doen wie ze zijn.  
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"a59dbc8f12cb7271927a3f7dd","lid":"31be92104f","uniqueMethods":true}) })</script>

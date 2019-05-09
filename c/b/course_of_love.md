@@ -4,6 +4,7 @@ book-author: Alain de Botton
 layout: page
 pager: True
 comments: true
+advert: true
 thumbnail: /images/course_of_love.jpg
 date: 2019-02-14
 tags:

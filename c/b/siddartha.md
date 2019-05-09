@@ -4,6 +4,7 @@ book-author: Herman Hesse
 layout: page
 pager: True
 comments: true
+advert: true
 thumbnail: /images/siddartha.jpg
 date: 2018-10-04
 tags:
