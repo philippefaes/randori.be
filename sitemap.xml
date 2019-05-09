@@ -46,6 +46,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://www.randori.be/wat/veranderen_door_te_wandelen.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://www.randori.be/bookme.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -61,7 +66,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/wat/index.html</loc>
+        <loc>http://www.randori.be/wat/galicia.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -256,11 +261,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/wat/wandelen_om_te_veranderen.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/tag/kilt/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -417,6 +417,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/news/driedaagse1.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/wat/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
