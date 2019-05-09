@@ -1,11 +1,8 @@
 ---
 title: h
-title: _
 layout: redirect
 target: /
-order: title
-reverse: True
+content: []
 hidden: True
-pager: False
 ---
 
