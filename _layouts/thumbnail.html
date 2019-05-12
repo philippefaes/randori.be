@@ -1,5 +1,5 @@
 {% if item.thumbnail %}
-  <div class="col-md-4" role="main">
+  <div class="col-xs-12 col-xs-offset-0 col-sm-6 col-sm-offset-0 col-md-4" role="main">
     <h4><a href="{{item.url}}">{{item.title|cutoff(30)}}</a>
       {% if item.date|d %}
       <br/><small>{{item.date|dateformat}}</small></h4>
