@@ -1,6 +1,7 @@
 ---
 title: Maak een afspraak
-layout: home
+tagline: "&nbsp;"
+layout: index
 content: []
 hidden: True
 comments: False

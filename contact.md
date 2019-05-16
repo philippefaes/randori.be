@@ -1,12 +1,12 @@
 ---
 title: Contacteer mij
 tagline: "&nbsp;"
-layout: home
+layout: index
 comments: False
 pager: False
 ---
 
-<div class="contact col-md-10 col-md-offset-1">
+<div class="contact row">
 <div class="col-md-4">
   <a href="mailto:philippe@randori.be">
     <h4>Stuur me een email</h4>
