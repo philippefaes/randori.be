@@ -25,11 +25,14 @@ Door stil te zijn en ook door te praten.
 Door twee dagen lang **onbereikbaar** te zijn. 
 Door twee dagen **zonder pintjes en wijntjes** te leven, zodat we beter alle veranderingen kunnen aanvoelen en doormaken.
 
+De groep bestaat uit gelijkgestemden (maximaal 4) die ook willen wandelen en veranderen, en die allemaal door mij gescreend zijn. Je kan deze tweedaagse ook boeken op een gewenst tijdstip voor jou en je **management-team**.
+
 ## Wanneer
 
-* <s>Woensdag 13 maart 2019 (avond) tot vrijdag 15 maart 2019 (namiddag)</s>
-* <s>Vrijdag 10 mei 2019 (avond) tot zondag 12 mei 2019 (namiddag)]</s>
-* [Vrijdag 13 sept 2019 (avond) tot zondag 15 sept 2019 (namiddag)](/h/form_2daagse.html)
+* <s>13-15 maart 2019 (WO-avond tot VR)</s>
+* <s>10-12 mei 2019 (VR-avond to ZO)</s>
+* [25-27 sept 2019 (WO-avond tot VR)](/h/form_2daagse.html)
+* [/contact] voor een andere datum
 
 ## Waar
 Geheime locatie in de Hoge Venen en de Ardennen.
@@ -63,4 +66,4 @@ Geheime locatie in de Hoge Venen en de Ardennen.
 
 ## → [Meer info en Inschrijven](/h/form_2daagse.html)
 
-Als de bovenstaande data niet passen, kan je me [een mailtje sturen](mailto:philippe@randori.be), en dan hou ik je op de hoogte van komende driedaagses.
+Passen de bovenstaande data niet? → [/h/abonneren].
