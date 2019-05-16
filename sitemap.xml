@@ -56,11 +56,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/ochtendmeeting.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>http://www.randori.be/news/aanbod.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -352,6 +347,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/c/q/frontpage.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/ochtendmeeting.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
