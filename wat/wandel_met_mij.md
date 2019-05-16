@@ -15,4 +15,4 @@ Slecht weer is ook weer. Als het weer niet *gevaarlijk* is (onweer of storm), ga
 <br/>
 <br/>
 
-### [/h/maak_afspraak] of neem [/contact] op met mij.
+### [/h/maak_afspraak] of [/contact].

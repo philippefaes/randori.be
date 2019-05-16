@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacteer mij
 tagline: "&nbsp;"
 layout: home
 comments: False

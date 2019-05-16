@@ -1,5 +1,5 @@
 ---
-title: Abonneren
+title: Hou me op de hoogte
 layout: page
 comments: False
 pager: False

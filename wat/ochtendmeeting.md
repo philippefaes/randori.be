@@ -19,4 +19,4 @@ Ik wil met jou 's ochtends een uur wandelen om een scherpe focus te krijgen voor
 <br/>
 <br/>
 
-### [/h/maak_afspraak_ochtend] of neem [/contact] op met mij.
+### [/h/maak_afspraak_ochtend] of [/contact].
