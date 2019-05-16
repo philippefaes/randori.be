@@ -24,19 +24,11 @@ pager: False
 </div>
 
 <div class="col-md-4">
-  <a href="/wandel_met_mij.html">
+  <a href="/h/afspraken.html">
     <h4>Maak een afspraak</h4>
     <div class="crop-quote"><img src="/images/calendar.png" alt="Wat"></div>
     <p>mijn agenda</p>
   </a>
 </div>
-
-<!--div class="col-md-3">
-  <a href="https://www.linkedin.com/in/philippefaes/" target="_blank">
-    <h4>Link met mij</h4>
-    <div class="crop-quote"><img src="/images/linkedin.png" alt="Wat"></div>
-    <p>LinkedIn</p>
-  </a>
-</div-->
 
 </div>

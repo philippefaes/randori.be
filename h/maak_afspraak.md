@@ -1,5 +1,5 @@
 ---
-title: Maak een afspraak voor een wandel-meeting
+title: Maak een afspraak voor een wandelmeeting
 layout: page
 comments: False
 pager: False
