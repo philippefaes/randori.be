@@ -61,7 +61,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.randori.be/wat/galicia.html</loc>
+        <loc>http://www.randori.be/wat/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -142,6 +142,11 @@
     </url>
     <url>
         <loc>http://www.randori.be/news/nieuwe_naam.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.randori.be/wat/asturias.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -417,11 +422,6 @@
     </url>
     <url>
         <loc>http://www.randori.be/news/driedaagse1.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://www.randori.be/wat/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
