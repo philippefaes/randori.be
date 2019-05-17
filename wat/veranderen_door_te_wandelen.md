@@ -59,9 +59,9 @@ Hier is mijn geheime superkracht: ik stel vragen tot ik een antwoord krijg. Ik l
 * [/wat/wandel_met_mij] — anderhalf uur wandelen in de natuur. 
   <br/><br/>
 * [/wat/2daagse] — op een geheime locatie in de Hoge Venen en Ardennen.
-* [Twee weken](mailto:philippe@randori.be?subject=Hou+me+op+de+hoogte+van+veranderen+door+te+wandelen+in+Spanje) — weg van de dagelijkse routine, in Asturias en Galicia.
+* [/wat/asturias] — weg van de dagelijkse routine, in Asturias en Galicia.
   <br/><br/>
-* **Aangepast** aan wat jij nodig hebt, in de natuur of in jouw bedrijf. Af en toe wil zelfs wel eens gaan zitten. — [neem contact op](/contact.html)
+* **Aangepast** aan wat jij nodig hebt: langer, korter, in de natuur of in jouw bedrijf. Af en toe wil zelfs wel eens gaan zitten. — [neem contact op](/contact.html)
 
 
 <!--

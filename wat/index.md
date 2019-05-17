@@ -9,6 +9,7 @@ content:
     - ochtendmeeting
     - wandel_met_mij
     - 2daagse
+    - asturias
 dropdown: true
 comments: False
 thumbnail: /images/full_backpack.jpg
