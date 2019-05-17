@@ -6,6 +6,14 @@ pager: False
 hidden: True
 hidebreadcrumbs: True
 ---
+<ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+    <li><a href="/contact.html">Contact</a></li>
+    <li><a href="/h/afspraken.html">Afspraken</a></li>
+    <li class="active">Ochtendmeeting</li>
+</ol>
+
+
 # Wandel met mij
 
 Maak hier een afspraak een ochtendmeeting, wandelend, of neem rechtstreeks [/contact] op met mij. 
