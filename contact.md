@@ -1,5 +1,6 @@
 ---
 title: Contacteer mij
+menutitle: Contact
 tagline: "&nbsp;"
 layout: index
 comments: False
