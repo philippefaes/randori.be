@@ -14,6 +14,7 @@ social:
     facebook:  https://www.facebook.com/philippe.faes.coach/
     instagram: https://www.instagram.com/philippe.faes.coach/
     twitter:   https://twitter.com/philippe_coach
+    youtube:   https://www.youtube.com/channel/UCgCT-nJx0CsUHoR8Z5OUFbg
 reflinks:
     aboutme:
         url: https://be.linkedin.com/in/philippefaes
@@ -45,3 +46,9 @@ reflinks:
     vlerick:
         url: https://www.vlerick.com
         title: Vlerick Leuven-Gent Management School
+    starterslabo:
+        url: https://www.starterslabo.be/
+        title: Starterslabo
+    netwerk_ondernemen:
+        url: https://netwerkondernemen.be
+        title: Netwerk Ondernemen
