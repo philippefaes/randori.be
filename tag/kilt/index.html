@@ -4,6 +4,15 @@
     <title>kilt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
+    
+    <!-- Use HTTPS -->
+    <script language="JavaScript">
+        var loc = window.location.href+'';
+        if (loc.indexOf('http://localhost:') != 0 && loc.indexOf('http://')==0){
+            window.location.href = loc.replace('http://','https://');
+        }
+    </script>
+    
     <!-- Bootstrap -->
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" media="screen">
 
