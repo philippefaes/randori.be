@@ -6,6 +6,7 @@
         <loc>http://{{site.cname}}{{site.reflinks[t].url}}</loc>
         <changefreq>{{this.changefreq}}</changefreq>
         <priority>{{this.priority}}</priority>
+        {% if site.reflinks[t].date %}<lastmod>{{site.reflinks[t].date}}</lastmod>{% endif %}
     </url>
     {% endif %}
 {% endfor %}
