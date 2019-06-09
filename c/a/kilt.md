@@ -7,7 +7,7 @@ date: 2019-02-10
 author: Philippe Faes
 thumbnail: /images/kilt_h.jpg
 advert: true
-language: en
+language: nl
 tags:
     - coaching
     - kilt
