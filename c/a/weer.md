@@ -11,7 +11,7 @@ thumbnail: /images/omgevallen_boom.jpg
 teaser: "Men zegt wel eens: 'Slecht weer bestaat niet, slechte kleding wel'. Maar wat met rukwinden en bliksem?"
 ---
 
-![Rukwinden](/images/omgevallen_boom.jpg)
+![Rukwinden](/images/omgevallen_boom_v.jpg)
 
 De afgelopen dagen hebben we verschillende types weer gehad. Het ene moment scheen de zon en was het warm. Het andere moment was er regen, veel wind en bliksem.  
 
@@ -27,4 +27,4 @@ Toen ik gisteren de "code geel" van het KMI las (rukwinden en onweer over het he
 
 Afgelopen weekend zag ik een boom over een wandelweg liggen. Een paar dagen eerder was ik nog langs diezelfde plaats gewandeld en had er een foto genomen van de klaprozen naast die boom. Bomen vallen om en takken komen naar beneden. 
 
-Er zijn slechts een paar dagen per jaar dat het niet OK is om te gaan wandelen. Net zoals we ons aanpassen aan _slecht_ weer door goede kleren aan te trekken, moeten we ons aanpassen aan _gevaarlijk_ weer door de wandeling te verplaatsen.
+Er zijn slechts een paar dagen per jaar dat het niet OK is om te gaan wandelen. Net zoals we ons aanpassen aan *slecht* weer door goede kleren aan te trekken, moeten we ons aanpassen aan *gevaarlijk* weer door de wandeling te verplaatsen.
