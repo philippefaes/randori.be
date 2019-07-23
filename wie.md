@@ -32,6 +32,7 @@ Ik heb bijna tien jaar lang mijn eigen bedrijf, [Sigasi](http://www.sigasi.com),
 
 In 2017 heb ik de leiding van Sigasi overgedragen aan een nieuwe algemeen directeur, en blijf ik betrokken als aandeelhouder. Sigasi is nog steeds een rendabel en groeiend high-techbedrijf met distributeurs en klanten over de hele wereld.
 
+Vanuit mijn ervaring als ondernemer sta ik open voor consultingopdrachten en interimmangement.
 
 <!-- TODO endorsements -->
 
@@ -60,6 +61,8 @@ Lees ook: [/c/a/kilt]
 ## Coach
 
 Al jaren adviseer en coach ik startende en groeiende ondernemers, zowel in peer-to-peer coaching als binnen startersorganisaties zoals [starterslabo] en [netwerk_ondernemen]. Ik werk rond alle aspecten van het ondernemerschap, zowel de strategie als de praktische uitvoering. Daarnaast werk ik ook met de ondernemer als mens; de vragen rond de persoonlijke drive en missie. Immers, als de ondernemer en de onderneming niet dezelfde missie hebben zullen de onderneming of de ondernemer of beide daaronder lijden.
+
+Ik ben beschikbaar voor het coachen van mensen ondernemers, managers en teams. Dat kan in jouw bedrijf, of dat kan al wandelend.
 
 <br/><br/>
 Lees ook: [wat]
