@@ -5,7 +5,10 @@ layout: page
 pager: True
 comments: true
 date: 2018-10-04
-thumbnail: /images/the_alchemist.jpg
+thumbnail: /images/the_alchemist_selfie.jpg
 tags:
     - book
 ---
+
+
+![The Alchemist, Paolo Coelho](/images/the_alchemist.jpg "The Alchemist, Paolo Coelho")
