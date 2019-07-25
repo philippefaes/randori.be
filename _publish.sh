@@ -3,7 +3,8 @@
 #if gh-pages does not exist yet, create it with:
 #git worktree add --detach _build
 #cd _build
-#git checkout --orphan gh-pages
+# ##git checkout --orphan gh-pages
+#git reset --hard origin/gh-pages
 #git push origin gh-pages
 
 # make sure everything is clean
