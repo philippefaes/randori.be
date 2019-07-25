@@ -5,11 +5,12 @@ pager: True
 comments: true
 date: 2019-07-23
 author: Philippe Faes
-thumbnail: /images/clouds.jpg
+thumbnail: /images/boris.jpg
 advert: true
 language: en
 tags:
     - leadership
+teaser: The three large domains of leadership are Business, Military and Politics. Let's look at a recent, globally relevant, example of political leadership.
 ---
 
 <p style="font-size: 0.9rem;font-style: italic;text-align:right"><a href="https://www.flickr.com/photos/9508955@N07/2947392238">"Boris and the Media"</a><span>by <a href="https://www.flickr.com/photos/9508955@N07">davesandford</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC 2.0</a><a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;opacity: .7;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://ccsearch.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://ccsearch.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://ccsearch.creativecommons.org/static/img/cc-nc_icon.svg" /></a></p>
