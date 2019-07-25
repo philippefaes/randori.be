@@ -41,7 +41,7 @@ def author(name):
 def cutoff(text,length=30):
     if '<' in text or '>' in text:
         text = re.sub('<[^<]+?>', '', text)
-    if len(text) > length:
+    if len(text) > length+3:
         return text[:length]+"..."
     else:
         return text
