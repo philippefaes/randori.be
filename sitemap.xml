@@ -216,6 +216,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://philippe.faes.coach/c/a/boris_leadership.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-07-23</lastmod>    </url>
+    <url>
         <loc>http://philippe.faes.coach/c/b/4hourworkweek.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -302,6 +307,11 @@
     </url>
     <url>
         <loc>http://philippe.faes.coach/wat/ochtendmeeting.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/leadership/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
