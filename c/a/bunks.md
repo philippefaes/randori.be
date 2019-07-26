@@ -4,7 +4,7 @@ subtitle: A case study while trying to get some sleep
 layout: page
 pager: True
 comments: true
-date: 2019-07-26
+date: 2019-07-31
 author: Philippe Faes
 thumbnail: /images/bunks.jpg
 advert: true
