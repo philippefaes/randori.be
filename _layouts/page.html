@@ -21,6 +21,9 @@
   <div class="page-header">
     {% block title %}
     <h1 style="display:inline">{{this.title}}</h1>
+      {% if this.subtitle%}
+        <h3>{{this.subtitle}}</h3>
+      {% endif %}
     <div style="float: right">
       <small>
       {% if this.date %}
