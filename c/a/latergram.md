@@ -6,7 +6,7 @@ pager: True
 comments: true
 date: 2019-09-02
 author: Philippe Faes
-thumbnail: /images/backpacks.jpg
+thumbnail: /images/airport_walkway.jpg
 advert: true
 language: nl
 tags:
@@ -14,7 +14,7 @@ tags:
     - pilgrim
 ---
 
-![Bunk beds](/images/backpacks.jpg) 
+![Bunk beds](/images/airport_walkway.jpg) 
 
 It is funny how some of my friends think that I'm always away from home, traveling. They ask me how my trip was when I run into them, and I have to pause and think for a while which trip they are referring to.
 

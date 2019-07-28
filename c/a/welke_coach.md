@@ -8,7 +8,7 @@ author: Philippe Faes
 language: nl
 advert: true
 thumbnail: /images/road_h.jpg
-teaser: "Misschien heb je hebt dat je op een bepaald domein verandering of vooruitgang wilt. Je wilt stappen nemen op je weg, en misschien heb je beslist om dat met samen een coach te doen. Dan komt de belangrijke vraag: hoe kies ik een coach?"
+teaser: "Misschien heb je hebt dat je op een bepaald domein verandering of vooruitgang wilt. Als je dat met een coach wilt doen, komt de belangrijke vraag: hoe kies ik een coach?"
 ---
 
 ![Coach](/images/road.jpg)
