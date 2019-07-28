@@ -116,10 +116,20 @@
         <priority>1.0</priority>
 <lastmod>2019-01-13</lastmod>    </url>
     <url>
+        <loc>http://philippe.faes.coach/tag/pilgrim/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://philippe.faes.coach/c/q/love_taught_me_to_lie.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
 <lastmod>2019-02-06</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/latergram.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-09-02</lastmod>    </url>
     <url>
         <loc>http://philippe.faes.coach/news/</loc>
         <changefreq>weekly</changefreq>
@@ -440,6 +450,11 @@
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
 <lastmod>2019-01-11</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/travel/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
     <url>
         <loc>http://philippe.faes.coach/more/index.html</loc>
         <changefreq>weekly</changefreq>
