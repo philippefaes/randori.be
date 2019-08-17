@@ -5,14 +5,14 @@ pager: True
 comments: true
 date: 2019-08-15
 author: Philippe Faes
-thumbnail: /images/boris.jpg
+thumbnail: /images/bank.jpg
 advert: true
 language: en
 tags:
     - ondernemen
 ---
 
-
+![closed](/images/bank.jpg)
 
 Why does the entire city inhale and exhale in the same rhythm? Monday morning everybody goes to work. Friday evening everybody goes for a drink to start the weekend. Saturday everybody is home entertaining their children. I love spending a random afternoon in the middle of the week hanging out with friends.
 

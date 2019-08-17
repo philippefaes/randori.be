@@ -1,6 +1,6 @@
 ---
-title: "Are you really traveling all the time?"
-subtitle: "Short answer: yes, long answer: no." 
+title: "Sharing tears"
+#subtitle: "Short answer: yes, long answer: no." 
 layout: page
 pager: True
 comments: true
