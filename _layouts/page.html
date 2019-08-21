@@ -18,13 +18,16 @@
   {% endif %}
   {% endblock %}
 
-  <div class="page-header">
+  <div class="page-header row">
     {% block title %}
+    <div class="col-md-8">
     <h1 style="display:inline">{{this.title}}</h1>
       {% if this.subtitle%}
         <h3>{{this.subtitle}}</h3>
       {% endif %}
-    <div style="float: right">
+    </div>
+    <div class="col-md-4">
+      <div style="float: right;bottom:0">
       <small>
       {% if this.date %}
 	    gepubliceerd op {{this.date}}
@@ -33,6 +36,7 @@
         door {{this.author}}
       {% endif %}
       </small>
+      </div>
     </div>
     {% endblock %}
   </div>
