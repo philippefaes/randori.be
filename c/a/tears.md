@@ -15,6 +15,7 @@ tags:
     - tears
 ---
 
+
 ![At Fisterra, being sad](/images/fisterra_sad.jpg) 
 
 A few weeks ago I walked on the [Camino del Norte](https://www.pilgrim.es/en/northern-way/), heading towards the monastery of Laredo. 
