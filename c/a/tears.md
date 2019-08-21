@@ -4,7 +4,7 @@ subtitle: "showing connection and strength"
 layout: page
 pager: True
 comments: true
-date: 2019-08-29
+date: 2019-08-21
 author: Philippe Faes
 thumbnail: /images/fisterra_sad.jpg
 advert: true
