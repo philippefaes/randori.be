@@ -7,6 +7,7 @@ date: 2018-11-12
 author: Philippe Faes
 thumbnail: /images/tattoos.jpg
 advert: true
+language: nl
 ---
 
 ![Tattoo](/images/kilt_tattoo.jpg)
