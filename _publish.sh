@@ -2,12 +2,13 @@
 
 #if gh-pages does not exist yet, create it with:
 # rm -Rf _build
-# git worktree add --detach _build
+# git worktree add _build gh-pages 
 # cd _build
-# git reset --hard origin/gh-pages
-# git push origin gh-pages
 
-# ##git checkout --orphan gh-pages
+## git reset --hard origin/gh-pages
+## git worktree add --detach _build
+## git push origin gh-pages
+## git checkout --orphan gh-pages
 
 # make sure everything is clean
 set -euo pipefail
