@@ -32,7 +32,7 @@ Have you heard this:
 Telling the truth is important, giving feedback is vastly important, being candid is what makes everybody better. 
 The book Radical Candor by Kim Scott teaches that it is better to be frank first and learn to be compassionate later. If you can find good way of saying things (important things, that is), it is better to say them anyway as good as you can. 
 
-However if you get stuck in what Scott calls the Obnoxious Aggression quadrant for too long, your relationship is going to be affected and might (will) eventually break. The fact that you *mean well* is not good enough. As a leader (or a partner, a friend, a parent) you have to cement your relationship in order for you to give critical feedback. Several books have been written on this subject ([Nonviolent Communication], [Radical Candor], [Crucial Conversations]), and several speakers (like [Simon Sinek]) have addressed it. Still this a critical point and perhaps the most important cause of employee turnover (and other broken relationships). It is not enough to *feel* good intentions when giving criticism or feedback. You have to make it explicit.
+However if you get stuck in what Scott calls the Obnoxious Aggression quadrant for too long, your relationship is going to be affected and might (will) eventually break. The fact that you *mean well* is not good enough. As a leader (or a partner, a friend, a parent) you have to cement your relationship in order for you to give critical feedback. Several books have been written on this subject ([Nonviolent Communication], [Radical Candor], [Crucial Conversations]), and several speakers (like [Simon Sinek]) have addressed it. Still this a critical point and perhaps the most important cause of employee turnover (and other broken relationships). It is not enough to *feel* good intentions when giving criticism or feedback. You have to make it explicit. You have to make sure they feel *safe* and *valued*.
 
 To recap for people who have read the books several years ago (you did read them, right?) and don't quite remember:
 
@@ -44,7 +44,7 @@ To recap for people who have read the books several years ago (you did read them
 Watch [Simon Sinek explain this](https://www.facebook.com/watch/?v=424928161640411).
 
 Those who give feedback without making their empathy explicit in words will suffer. 
-First, the person on the receiving end will suffer. They might not show it at first, they might keeps strong. Then after a while, they will try to avoid suffering and they will either fight back, or they will disengage. They might disengage emotionally or they might physically leave. 
+First, the person on the receiving end will suffer. They won't feel safe around you. They might not show it at first, they might keeps strong. Then after a while, they will try to avoid suffering and they will either fight back, or they will disengage. They might disengage emotionally or they might physically leave. 
 
 
 [Nonviolent Communication]:https://www.amazon.com/Nonviolent-Communication-Marshall-Rosenberg-PhD/dp/189200528X
