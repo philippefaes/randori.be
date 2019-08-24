@@ -4,7 +4,7 @@ subtitle: how not to loose staff, friends and loved ones
 layout: page
 pager: True
 comments: true
-date: 2019-08-24
+date: 2019-09-09
 author: Philippe Faes
 thumbnail: /images/sad_dog.jpg
 advert: true
