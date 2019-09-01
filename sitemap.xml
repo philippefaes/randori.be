@@ -246,6 +246,11 @@
         <priority>1.0</priority>
 <lastmod>2018-12-07</lastmod>    </url>
     <url>
+        <loc>http://philippe.faes.coach/tag/world-domination/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://philippe.faes.coach/c/a/evenwicht2.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -336,10 +341,10 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/tag/communicatie/</loc>
+        <loc>http://philippe.faes.coach/c/a/world_domination.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-    </url>
+<lastmod>2019-09-16</lastmod>    </url>
     <url>
         <loc>http://philippe.faes.coach/wat/ochtendmeeting.html</loc>
         <changefreq>weekly</changefreq>
@@ -437,6 +442,11 @@
 <lastmod>2018-10-21</lastmod>    </url>
     <url>
         <loc>http://philippe.faes.coach/c/q/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/communicatie/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
