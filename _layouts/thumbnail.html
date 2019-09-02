@@ -1,6 +1,6 @@
 {% if item.thumbnail %}
   <div class="col-xs-12 col-xs-offset-0 col-sm-6 col-sm-offset-0 col-md-4" role="main">
-    <h4><a href="{{item.url}}">{{item.title|cutoff(30)}}</a>
+    <h4><a href="{{item.url}}" title="{{item.title}}">{{item.title|cutoff(35)}}</a>
       {% if item.date|d %}
       <br/><small>{{item.date|dateformat}}</small></h4>
       {% endif %}
@@ -8,7 +8,7 @@
     {% if item.thumbnail %}
     <a href="{{item.url}}">
       <div class="crop">
-        <img src="{{item.thumbnail}}" alt="{{item.title}}">
+        <img title="{{item.title}}" src="{{item.thumbnail}}" alt="{{item.title}}">
       </div>
     </a>
     {% endif %}
