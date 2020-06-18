@@ -16,7 +16,7 @@ try:
         return markdown.markdown(text)
     filters['md'] = md
 except ImportError:
-    print "Could not find module markdown. Continuing without markdown"
+    print ("Could not find module markdown. Continuing without markdown")
 
 
 def license(licenseName):
@@ -46,7 +46,7 @@ def cutoff(text,length=30):
     else:
         return text
 def recursecontent(items):
-    contents = [item['content'] for item in items if item.has_key('content')]
+    contents = [item['content'] for item in items if 'content' in item]
     contents = sum(contents,[])
     if contents:
         children = recursecontent(contents)
@@ -75,13 +75,13 @@ def sortpopular(content):
 def recurse(content):
     result = []
     for item in content:
-        if item.has_key("content"):
+        if 'content' in item:
             result += recurse(item["content"])
         else:
             result.append(item)
     return result
 def filterlatest(content,count=10):
-    content = [item for item in content if item.has_key('date')]
+    content = [item for item in content if 'data' in item]
     c =  sorted(content,key=lambda c:c.get('date'),reverse=True)
     if len(c)>count:
         return c[:count]
@@ -89,12 +89,12 @@ def filterlatest(content,count=10):
         return c
     
 def excludewithoutthumbnail(items):
-    return [i for i in items if i.has_key('thumbnail') ]
+    return [i for i in items if 'thumbnail'in i ]
     
 def excludefuture(items, enabled):
     if not enabled:
         return items
-    return [i for i in items if not i.has_key('date') or i["date"]<=datetime.date.today()]
+    return [i for i in items if (not ('date' in i)) or i["date"]<=datetime.date.today()]
 
 def filterfirst(content,count=10):
     if len(content)>count:
