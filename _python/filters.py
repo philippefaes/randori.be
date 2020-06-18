@@ -81,7 +81,7 @@ def recurse(content):
             result.append(item)
     return result
 def filterlatest(content,count=10):
-    content = [item for item in content if 'data' in item]
+    content = [item for item in content if 'date' in item]
     c =  sorted(content,key=lambda c:c.get('date'),reverse=True)
     if len(c)>count:
         return c[:count]

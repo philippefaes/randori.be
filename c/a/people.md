@@ -31,4 +31,4 @@ Why do you want to figure out a Price for your product? Because it balances the 
 And so on and so forth…
 Make no mistake. Even though this may sound very soft and new-agey, it is very fundamental and it is the only way for long term success.
 
-And yes, the dice in the picture [are real](http://www.mydice.be/). They are not photoshopped.
+And yes, the dice in the picture are real. They are not photoshopped.
