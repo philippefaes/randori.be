@@ -1,57 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
     <url>
-        <loc>http://philippe.faes.coach/c/a/veranderen.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-12-03</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/bank_holiday.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-08-15</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/lente.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-03-20</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/bring_your_whole_self.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-10-18</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/we_are_all_pilgrims.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-09-25</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/news/winterwandeling.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-01-08</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/b/siddartha.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-10-04</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/minimalisme/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/tattoo.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-11-12</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/wandelen/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/wat/veranderen_door_te_wandelen.html</loc>
+        <loc>http://philippe.faes.coach/2daagse.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -61,122 +11,22 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/news/aanbod.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-11-07</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/wat/index.html</loc>
+        <loc>http://philippe.faes.coach/contact.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/c/a/evenwicht.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-11-26</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/cadeaus.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-11-19</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/filosofie/</loc>
+        <loc>http://philippe.faes.coach/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/pelgrim.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/winterstress.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-12-17</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/het_plan.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-09-17</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/melancholy.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-01-22</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/wat/2daagse.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/unconditional_love.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-01-13</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/pilgrim/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/love_taught_me_to_lie.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-02-06</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/latergram.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-09-02</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/news/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/kilt.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-02-10</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/book/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/pelgrim_bedankt.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-11-02</lastmod>    </url>
     <url>
         <loc>http://philippe.faes.coach/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/news/nieuwe_naam.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-02-13</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/wat/asturias.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/wie.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/juiste_richting.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/coaching/</loc>
+        <loc>http://philippe.faes.coach/ochtendmeeting.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -186,75 +36,15 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/c/q/de_weg_is_het_doel.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-10-02</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/tears/</loc>
+        <loc>http://philippe.faes.coach/wie.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    <url>
-        <loc>http://philippe.faes.coach/2daagse.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/ondernemen/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/frontpage.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-09-02</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/fisterra.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-10-15</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/lao_tze.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-10-25</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/b/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/eerlijk.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-10-29</lastmod>    </url>
     <url>
         <loc>http://philippe.faes.coach/aanbod/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/boris_leadership.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-07-23</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/b/4hourworkweek.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-12-07</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/world-domination/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/evenwicht2.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>1111-11-11</lastmod>    </url>
     <url>
         <loc>http://philippe.faes.coach/aanbod/</loc>
         <changefreq>weekly</changefreq>
@@ -266,42 +56,72 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/c/a/tears.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-08-29</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/waarom_wandelen.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-02-19</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/welke_coach.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-06-18</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/news/index.html</loc>
+        <loc>http://philippe.faes.coach/c/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/juiste_richting.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/wat_is_een_pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/bank_holiday.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-08-15</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/blue_monday.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-01-21</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/boris_leadership.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-07-23</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/bunks.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-07-31</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/cadeaus.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-11-19</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/eerlijk.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-29</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/evenwicht.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-11-26</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/evenwicht2.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>1111-11-11</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/fisterra.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-15</lastmod>    </url>
     <url>
         <loc>http://philippe.faes.coach/c/a/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/waarom_coachen.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-02-21</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/no_offense.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-09-09</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/b/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -311,7 +131,197 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/tag/kilt/</loc>
+        <loc>http://philippe.faes.coach/c/a/juiste_richting.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-03</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/kilt.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-02-10</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/latergram.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-09-02</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/lente.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-03-20</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/no_offense.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-09-09</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/oplappen.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-01-02</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-09-26</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/people.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-11-03</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/quick_wins.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-02-05</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/randori.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-09-01</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/tattoo.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-11-12</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/tears.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-08-29</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/uit_de_kast.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-13</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/waarom_wandelen.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-02-19</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/wat_is_een_pelgrim.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-09-29</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/weer.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-06-11</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/welke_coach.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-06-18</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/winterstress.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-12-17</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/world_domination.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-09-16</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/_veranderen.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-12-03</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/a/_waarom_coachen.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-02-21</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/b/4hourworkweek.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-12-07</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/b/bare_reality.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2020-06-18</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/b/coaching_habit.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-21</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/b/course_of_love.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-02-14</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/b/doenwiejebent.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-04-19</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/b/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/b/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/b/sex_at_dawn.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-01-11</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/b/siddartha.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-04</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/q/bring_your_whole_self.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-18</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/q/camino_geeft_je_antwoorden.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-11-16</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/q/de_echte_camino.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-14</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/q/de_weg_is_het_doel.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-02</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/q/foute_weg.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-10-05</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/q/frontpage.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-09-02</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/q/het_plan.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-09-17</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/q/iedereen_wandelt_zijn_eigen_camino.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-11-09</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/c/q/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -321,57 +331,42 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/c/b/course_of_love.html</loc>
+        <loc>http://philippe.faes.coach/c/q/just_keep_walking.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2019-02-14</lastmod>    </url>
+<lastmod>2018-09-27</lastmod>    </url>
     <url>
-        <loc>http://philippe.faes.coach/wat/</loc>
+        <loc>http://philippe.faes.coach/c/q/lao_tze.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-    </url>
+<lastmod>2018-10-25</lastmod>    </url>
     <url>
-        <loc>http://philippe.faes.coach/wat/wandel_met_mij.html</loc>
+        <loc>http://philippe.faes.coach/c/q/love_taught_me_to_lie.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-    </url>
+<lastmod>2019-02-06</lastmod>    </url>
     <url>
-        <loc>http://philippe.faes.coach/tag/relaties/</loc>
+        <loc>http://philippe.faes.coach/c/q/melancholy.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-    </url>
+<lastmod>2019-01-22</lastmod>    </url>
     <url>
-        <loc>http://philippe.faes.coach/c/a/world_domination.html</loc>
+        <loc>http://philippe.faes.coach/c/q/pelgrim_bedankt.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2019-09-16</lastmod>    </url>
+<lastmod>2018-11-02</lastmod>    </url>
     <url>
-        <loc>http://philippe.faes.coach/wat/ochtendmeeting.html</loc>
+        <loc>http://philippe.faes.coach/c/q/unconditional_love.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-    </url>
+<lastmod>2019-01-13</lastmod>    </url>
     <url>
-        <loc>http://philippe.faes.coach/c/a/bunks.html</loc>
+        <loc>http://philippe.faes.coach/c/q/we_are_all_pilgrims.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2019-07-31</lastmod>    </url>
+<lastmod>2018-09-25</lastmod>    </url>
     <url>
-        <loc>http://philippe.faes.coach/tag/leadership/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/blue_monday.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-01-21</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/preview/index.html</loc>
+        <loc>http://philippe.faes.coach/more/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -381,27 +376,42 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/c/b/doenwiejebent.html</loc>
+        <loc>http://philippe.faes.coach/news/aanbod.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2019-04-19</lastmod>    </url>
+<lastmod>2018-11-07</lastmod>    </url>
     <url>
-        <loc>http://philippe.faes.coach/c/q/just_keep_walking.html</loc>
+        <loc>http://philippe.faes.coach/news/driedaagse1.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2018-09-27</lastmod>    </url>
+<lastmod>2018-12-25</lastmod>    </url>
     <url>
-        <loc>http://philippe.faes.coach/c/q/foute_weg.html</loc>
+        <loc>http://philippe.faes.coach/news/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2018-10-05</lastmod>    </url>
+    </url>
     <url>
-        <loc>http://philippe.faes.coach/c/a/pelgrim.html</loc>
+        <loc>http://philippe.faes.coach/news/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2018-09-26</lastmod>    </url>
+    </url>
     <url>
-        <loc>http://philippe.faes.coach/tag/relationships/</loc>
+        <loc>http://philippe.faes.coach/news/nieuwe_naam.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-02-13</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/news/tweedaagse1.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2018-11-19</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/news/winterwandeling.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+<lastmod>2019-01-08</lastmod>    </url>
+    <url>
+        <loc>http://philippe.faes.coach/preview/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -411,37 +421,77 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/news/tweedaagse1.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-11-19</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/juiste_richting.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-10-03</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/ochtendmeeting.html</loc>
+        <loc>http://philippe.faes.coach/wat/2daagse.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/c/q/camino_geeft_je_antwoorden.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-11-16</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/</loc>
+        <loc>http://philippe.faes.coach/wat/asturias.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/c/b/coaching_habit.html</loc>
+        <loc>http://philippe.faes.coach/wat/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2018-10-21</lastmod>    </url>
+    </url>
     <url>
-        <loc>http://philippe.faes.coach/c/q/index.html</loc>
+        <loc>http://philippe.faes.coach/wat/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/wat/ochtendmeeting.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/wat/veranderen_door_te_wandelen.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/wat/wandel_met_mij.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/ondernemen/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/leadership/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/camino/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/minimalisme/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/coaching/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/kilt/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/travel/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/pilgrim/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -451,88 +501,43 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://philippe.faes.coach/c/a/quick_wins.html</loc>
+        <loc>http://philippe.faes.coach/tag/relationships/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2019-02-05</lastmod>    </url>
+    </url>
     <url>
-        <loc>http://philippe.faes.coach/c/a/uit_de_kast.html</loc>
+        <loc>http://philippe.faes.coach/tag/tears/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-<lastmod>2018-10-13</lastmod>    </url>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/wandelen/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/world-domination/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/book/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/relaties/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://philippe.faes.coach/tag/filosofie/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
     <url>
         <loc>http://philippe.faes.coach/tag/quote/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/people.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-11-03</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/wat_is_een_pelgrim.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-09-29</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/de_echte_camino.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-10-14</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/b/sex_at_dawn.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-01-11</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/travel/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/more/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/news/driedaagse1.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-12-25</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/wat_is_een_pelgrim.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/contact.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/q/iedereen_wandelt_zijn_eigen_camino.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-11-09</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/randori.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2018-09-01</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/tag/camino/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/weer.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-06-11</lastmod>    </url>
-    <url>
-        <loc>http://philippe.faes.coach/c/a/oplappen.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-<lastmod>2019-01-02</lastmod>    </url>
 </urlset>
