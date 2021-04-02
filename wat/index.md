@@ -6,10 +6,10 @@ layout: redirect
 target: /wat/veranderen_door_te_wandelen.html
 content: 
     - veranderen_door_te_wandelen
-    - ochtendmeeting
-    - wandel_met_mij
-    - 2daagse
-    - asturias
+    # - ochtendmeeting
+    # - wandel_met_mij
+    # - 2daagse
+    # - asturias
 dropdown: true
 comments: False
 thumbnail: /images/full_backpack.jpg
