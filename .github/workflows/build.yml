@@ -7,10 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.1
+        uses: actions/checkout@v2.3.1        
+
       - name: Install and Build
-        run: |
-          _build.sh
+        - run: pip install -r requirements.txt   
+        - run: make build
+
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
