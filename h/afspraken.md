@@ -15,10 +15,9 @@ comments: False
 
 <div class="contact row" >
 <div class="col-md-4 col-md-offset-2">
-  <a href="/h/maak_afspraak_ochtend.html">
-    <h4>Ochtendmeeting</h4>
+  <a href="/h/maak_afspraak_online.html">
+    <h4>Online meeting</h4>
     <div class="crop-quote"><img src="/images/calendar.png" alt="Wat"></div>
-    <p>één uur <br/>voor 9:00</p>
   </a>
 </div>
 
@@ -26,7 +25,6 @@ comments: False
   <a href="/h/maak_afspraak.html">
     <h4>Wandelmeeting</h4>
     <div class="crop-quote"><img src="/images/calendar.png" alt="Wat"></div>
-    <p>anderhalf uur<br/> tussen 10:00 en 20:00</p>
   </a>
 </div>
 

@@ -55,7 +55,8 @@ Hier is mijn geheime superkracht: ik stel vragen tot ik een antwoord krijg. Ik l
 
 ## Wanneer wandelen?
 
-* [/wat/ochtendmeeting] — de belangrijkste vergadering van de dag eerst: die met jezelf. 
+<!--* [/wat/ochtendmeeting] — de belangrijkste vergadering van de dag eerst: die met jezelf. -->
+
 * [/wat/wandel_met_mij] — anderhalf uur wandelen in de natuur. 
   <br/><br/>
 * [/wat/2daagse] — op een geheime locatie in de Hoge Venen en Ardennen.

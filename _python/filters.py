@@ -59,9 +59,9 @@ def filtercontent(sections,urls=["/tech/"]):
     # TODO: filter
     if type(urls)==str:
         urls=[urls]
-#     print len(sections)
-#     print type(sections[0])
-#     print sections[0].keys()
+#     print (len(sections))
+#     print (type(sections[0]))
+#     print (sections[0].keys())
     
     contents = [section['content'] for section in sections if section['url'] in urls]
     return sum(contents,[])
@@ -75,7 +75,7 @@ def sortpopular(content):
 def recurse(content):
     result = []
     for item in content:
-        if 'content' in item:
+        if "content" in item:
             result += recurse(item["content"])
         else:
             result.append(item)
@@ -89,12 +89,12 @@ def filterlatest(content,count=10):
         return c
     
 def excludewithoutthumbnail(items):
-    return [i for i in items if 'thumbnail'in i ]
+    return [item for item in items if 'thumbnail' in item ]
     
 def excludefuture(items, enabled):
     if not enabled:
         return items
-    return [i for i in items if (not ('date' in i)) or i["date"]<=datetime.date.today()]
+    return [item for item in items if not ('date' in item) or item["date"]<=datetime.date.today()]
 
 def filterfirst(content,count=10):
     if len(content)>count:

@@ -66,4 +66,3 @@ Geheime locatie in de Hoge Venen en de Ardennen.
 
 ## → [Meer info en Inschrijven](/h/form_2daagse.html)
 
-Passen de bovenstaande data niet? → [/h/abonneren].

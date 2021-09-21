@@ -29,6 +29,3 @@ Hoelang is het geleden dat je eens echt tijd voor jezelf hebt gemaakt?
 Wandelen om te Veranderen is geen vakantie! Verschillende dagen aan een stuk wandelen, dat zet echt veranderingen in beweging. 
 
 Dit najaar in het noorden van Spanje.
-
-### → [/h/abonneren] ←
-
