@@ -39,6 +39,7 @@ def coloredDot(title):
 def author(name):
     return name
 def cutoff(text,length=30):
+    text=str(text)
     if '<' in text or '>' in text:
         text = re.sub('<[^<]+?>', '', text)
     if len(text) > length+3:
